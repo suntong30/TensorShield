@@ -1,0 +1,2 @@
+dataset,arch,layer_percent,channel_percent,epoch,final_acc,best_acc
+cifar100,vgg16_bn,0.1,-1,100,21.66,21.66

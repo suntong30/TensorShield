@@ -1,0 +1,185 @@
+Prepare session with the TA
+Begin darknet
+gpu_index: 0
+workspace_size=150528
+[load_weights p]
+[load_weights_upto]
+[load_weights a]
+[PREDICT CLASSIFIER] MODEL LOADER: 0.989869 seconds
+[REE CONV] FILL CPU TA: 0.039000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.186000(ms)
+[REE CONV] gemm: 3.701000(ms)
+[REE CONV] im2col_cpu: 3.889000(ms)
+[REE CONV] batch_normalize: 0.226000(ms)
+[REE CONV] activate_array: 0.085000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME0]FWCONVOLUTIONAL:4253:0.004253:
+[TIME1]FWMAXPOOL:114:0.000114:
+[REE CONV] FILL CPU TA: 0.005000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.123000(ms)
+[REE CONV] gemm: 3.778000(ms)
+[REE CONV] im2col_cpu: 3.906000(ms)
+[REE CONV] batch_normalize: 0.075000(ms)
+[REE CONV] activate_array: 0.023000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME2]FWCONVOLUTIONAL:4018:0.004018:
+[REE CONV] FILL CPU TA: 0.005000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.122000(ms)
+[REE CONV] gemm: 3.777000(ms)
+[REE CONV] im2col_cpu: 3.904000(ms)
+[REE CONV] batch_normalize: 0.074000(ms)
+[REE CONV] activate_array: 0.022000(ms)
+[REE CONV] swap_binary: 0.000000(ms)
+[TIME3]FWCONVOLUTIONAL:4014:0.004014:
+[TIME4]FWSHORTCUT:41:0.000041:
+[REE CONV] FILL CPU TA: 0.005000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.123000(ms)
+[REE CONV] gemm: 3.783000(ms)
+[REE CONV] im2col_cpu: 3.909000(ms)
+[REE CONV] batch_normalize: 0.108000(ms)
+[REE CONV] activate_array: 0.022000(ms)
+[REE CONV] swap_binary: 0.000000(ms)
+[TIME5]FWCONVOLUTIONAL:4053:0.004053:
+[REE CONV] FILL CPU TA: 0.016000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.122000(ms)
+[REE CONV] gemm: 3.777000(ms)
+[REE CONV] im2col_cpu: 3.903000(ms)
+[REE CONV] batch_normalize: 0.089000(ms)
+[REE CONV] activate_array: 0.019000(ms)
+[REE CONV] swap_binary: 0.000000(ms)
+[TIME6]FWCONVOLUTIONAL:4037:0.004037:
+[TIME7]FWSHORTCUT:40:0.000040:
+[REE CONV] FILL CPU TA: 0.003000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.039000(ms)
+[REE CONV] gemm: 1.917000(ms)
+[REE CONV] im2col_cpu: 1.960000(ms)
+[REE CONV] batch_normalize: 0.047000(ms)
+[REE CONV] activate_array: 0.011000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME8]FWCONVOLUTIONAL:2030:0.002030:
+[REE CONV] FILL CPU TA: 0.003000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.076000(ms)
+[REE CONV] gemm: 3.822000(ms)
+[REE CONV] im2col_cpu: 3.903000(ms)
+[REE CONV] batch_normalize: 0.047000(ms)
+[REE CONV] activate_array: 0.011000(ms)
+[REE CONV] swap_binary: 0.000000(ms)
+[TIME9]FWCONVOLUTIONAL:3974:0.003974:
+[TIME10]FWSHORTCUT:25:0.000025:
+[REE CONV] FILL CPU TA: 0.002000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.076000(ms)
+[REE CONV] gemm: 3.824000(ms)
+[REE CONV] im2col_cpu: 3.903000(ms)
+[REE CONV] batch_normalize: 0.049000(ms)
+[REE CONV] activate_array: 0.012000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME11]FWCONVOLUTIONAL:3977:0.003977:
+[REE CONV] FILL CPU TA: 0.003000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.076000(ms)
+[REE CONV] gemm: 3.823000(ms)
+[REE CONV] im2col_cpu: 3.904000(ms)
+[REE CONV] batch_normalize: 0.047000(ms)
+[REE CONV] activate_array: 0.011000(ms)
+[REE CONV] swap_binary: 0.000000(ms)
+[TIME12]FWCONVOLUTIONAL:3974:0.003974:
+[TIME13]FWSHORTCUT:22:0.000022:
+[REE CONV] FILL CPU TA: 0.002000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.027000(ms)
+[REE CONV] gemm: 2.392000(ms)
+[REE CONV] im2col_cpu: 2.422000(ms)
+[REE CONV] batch_normalize: 0.027000(ms)
+[REE CONV] activate_array: 0.006000(ms)
+[REE CONV] swap_binary: 0.000000(ms)
+[TIME14]FWCONVOLUTIONAL:2467:0.002467:
+[REE CONV] FILL CPU TA: 0.002000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.051000(ms)
+[REE CONV] gemm: 4.792000(ms)
+[REE CONV] im2col_cpu: 4.852000(ms)
+[REE CONV] batch_normalize: 0.029000(ms)
+[REE CONV] activate_array: 0.006000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME15]FWCONVOLUTIONAL:4902:0.004902:
+[TIME16]FWSHORTCUT:12:0.000012:
+[REE CONV] FILL CPU TA: 0.002000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.051000(ms)
+[REE CONV] gemm: 4.783000(ms)
+[REE CONV] im2col_cpu: 4.841000(ms)
+[REE CONV] batch_normalize: 0.031000(ms)
+[REE CONV] activate_array: 0.006000(ms)
+[REE CONV] swap_binary: 0.002000(ms)
+[TIME17]FWCONVOLUTIONAL:4980:0.004980:
+[REE CONV] FILL CPU TA: 0.002000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.051000(ms)
+[REE CONV] gemm: 4.800000(ms)
+[REE CONV] im2col_cpu: 4.861000(ms)
+[REE CONV] batch_normalize: 0.031000(ms)
+[REE CONV] activate_array: 0.006000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME18]FWCONVOLUTIONAL:4914:0.004914:
+[TIME19]FWSHORTCUT:14:0.000014:
+[REE CONV] FILL CPU TA: 0.001000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.029000(ms)
+[REE CONV] gemm: 8.007000(ms)
+[REE CONV] im2col_cpu: 8.047000(ms)
+[REE CONV] batch_normalize: 0.026000(ms)
+[REE CONV] activate_array: 0.005000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME20]FWCONVOLUTIONAL:8091:0.008091:
+[REE CONV] FILL CPU TA: 0.002000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.056000(ms)
+[REE CONV] gemm: 16.030001(ms)
+[REE CONV] im2col_cpu: 16.100000(ms)
+[REE CONV] batch_normalize: 0.024000(ms)
+[REE CONV] activate_array: 0.004000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME21]FWCONVOLUTIONAL:16142:0.016142:
+[TIME22]FWSHORTCUT:9:0.000009:
+[REE CONV] FILL CPU TA: 0.001000(ms)
+[REE CONV] xnor: 0.001000(ms)
+[REE CONV] im2col_cpu_per: 0.056000(ms)
+[REE CONV] gemm: 16.016001(ms)
+[REE CONV] im2col_cpu: 16.085001(ms)
+[REE CONV] batch_normalize: 0.021000(ms)
+[REE CONV] activate_array: 0.004000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME23]FWCONVOLUTIONAL:16124:0.016124:
+[REE CONV] FILL CPU TA: 0.001000(ms)
+[REE CONV] xnor: 0.000000(ms)
+[REE CONV] im2col_cpu_per: 0.056000(ms)
+[REE CONV] gemm: 16.020000(ms)
+[REE CONV] im2col_cpu: 16.087000(ms)
+[REE CONV] batch_normalize: 0.026000(ms)
+[REE CONV] activate_array: 0.003000(ms)
+[REE CONV] swap_binary: 0.001000(ms)
+[TIME24]FWCONVOLUTIONAL:16132:0.016132:
+[TIME25]FWSHORTCUT:10:0.000010:
+[TIME26]FWAVGPOOL:4:0.000004:
+[TIME27]FWCONNECTED:12:0.000012:
+[TIME28]FWSOFTMAX:11:0.000011:
+[REE] CPU TOTAL Invoke: 0.108627 (s)
+data/mnist/images/t_00005_c2.png: AAA Predicted in 0.108634 seconds.
+output file: /media/results/predict_darknet_pps999_ppe999.txt
+ 0.00%: 0
+ 0.00%: 1
+ 0.00%: 2
+ 0.00%: 3
+ 0.00%: 4
+user CPU start: 1.257811; end: 1.257920
+kernel CPU start: 0.041044; end: 0.041047
+Max: 50488  kilobytes
+vmsize:115520; vmrss:50488; vmdata:88416; vmstk:132; vmexe:640; vmlib:25540

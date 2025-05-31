@@ -1,0 +1,13 @@
+{
+ "generalization_gap": 0.12745454545454546,
+ "confidence_gap": 0.10175254129043232,
+ "top3_last_f1": 0.4376540807058518,
+ "top3_last_roc_auc": 0.537896428429752,
+ "top3_last_acc": 0.5272,
+ "mode0_last_f1": 0.6369977564756271,
+ "mode0_last_roc_auc": 0.5403961652892562,
+ "mode0_last_acc": 0.5146,
+ "mode3_last_f1": 0.5319927625627107,
+ "mode3_last_roc_auc": 0.6288038175206612,
+ "mode3_last_acc": 0.5861454545454545
+}

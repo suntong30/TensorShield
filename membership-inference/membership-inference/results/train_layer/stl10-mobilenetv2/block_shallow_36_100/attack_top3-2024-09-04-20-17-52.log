@@ -1,0 +1,57 @@
+Finished Saving Train Dataset to results/train_layer/stl10-mobilenetv2/block_shallow_36_100/meminf_attack_top3_train.p
+Finished Saving Test Dataset to results/train_layer/stl10-mobilenetv2/block_shallow_36_100/meminf_attack_top3_test.p
+Epoch 1 :
+Train Acc: 53.000% (3445/6500) | Loss: 0.685
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.638767
+AUC: 0.520945
+Test Acc: 50.600% (3289/6500)
+Epoch 2 :
+Train Acc: 56.108% (3647/6500) | Loss: 0.683
+Test Acc: 50.585% (3288/6500)
+Epoch 3 :
+Train Acc: 59.277% (3853/6500) | Loss: 0.680
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.600995
+AUC: 0.518981
+Test Acc: 50.646% (3292/6500)
+Epoch 4 :
+Train Acc: 58.708% (3816/6500) | Loss: 0.676
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.592357
+AUC: 0.518831
+Test Acc: 50.769% (3300/6500)
+Epoch 5 :
+Train Acc: 60.723% (3947/6500) | Loss: 0.671
+Test Acc: 50.769% (3300/6500)
+Epoch 6 :
+Train Acc: 61.108% (3972/6500) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.574440
+AUC: 0.517722
+Test Acc: 50.923% (3310/6500)
+Epoch 7 :
+Train Acc: 61.738% (4013/6500) | Loss: 0.657
+Test Acc: 50.862% (3306/6500)
+Epoch 8 :
+Train Acc: 64.000% (4160/6500) | Loss: 0.652
+Test Acc: 50.769% (3300/6500)
+Epoch 9 :
+Train Acc: 58.138% (3779/6500) | Loss: 0.651
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.530195
+AUC: 0.512604
+Test Acc: 51.169% (3326/6500)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.719216
+AUC: 0.658976
+Train Acc: 61.200% (3978/6500) | Loss: 0.646
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.086981
+AUC: 0.511952
+Test Acc: 49.615% (3225/6500)
+Best Acc: 0.511692
+ F1: 0.530195
+AUC: 0.512604
+Saved Attack Model to results/train_layer/stl10-mobilenetv2/block_shallow_36_100/meminf_top3.pth

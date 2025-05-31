@@ -1,0 +1,2562 @@
+tinyimagenet200==resnet18==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.622076
+AUC: 0.583330
+Train Acc: 53.950% (1079/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.577593
+AUC: 0.508913
+Test Acc: 50.400% (9072/18000)
+Best Acc: 0.506333
+ F1: 0.525422
+AUC: 0.509377
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.408877
+AUC: 0.580332
+Train Acc: 56.050% (1121/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.277284
+AUC: 0.508940
+Test Acc: 50.739% (9133/18000)
+Best Acc: 0.508611
+ F1: 0.335712
+AUC: 0.509569
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.337455
+AUC: 0.574521
+Train Acc: 54.450% (1089/2000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.267063
+AUC: 0.509041
+Test Acc: 50.722% (9130/18000)
+Best Acc: 0.508722
+ F1: 0.326350
+AUC: 0.509657
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.269291
+AUC: 0.571937
+Train Acc: 53.600% (1072/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.181852
+AUC: 0.508034
+Test Acc: 50.561% (9101/18000)
+Best Acc: 0.509333
+ F1: 0.428867
+AUC: 0.509473
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.539649
+AUC: 0.590038
+Train Acc: 56.750% (1135/2000) | Loss: 0.661
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.415107
+AUC: 0.508912
+Test Acc: 50.700% (9126/18000)
+Best Acc: 0.507000
+ F1: 0.415107
+AUC: 0.508912
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.429129
+AUC: 0.595774
+Train Acc: 56.100% (1122/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.527779
+AUC: 0.509912
+Test Acc: 50.561% (9101/18000)
+Best Acc: 0.509167
+ F1: 0.249554
+AUC: 0.512029
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.533044
+AUC: 0.589205
+Train Acc: 56.900% (1138/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.441064
+AUC: 0.509263
+Test Acc: 50.606% (9109/18000)
+Best Acc: 0.511278
+ F1: 0.306176
+AUC: 0.510432
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.289063
+AUC: 0.590313
+Train Acc: 54.500% (1090/2000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.337764
+AUC: 0.509841
+Test Acc: 51.006% (9181/18000)
+Best Acc: 0.510056
+ F1: 0.337764
+AUC: 0.509841
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-6==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.343360
+AUC: 0.589778
+Train Acc: 55.250% (1105/2000) | Loss: 0.666
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.259582
+AUC: 0.509534
+Test Acc: 50.844% (9152/18000)
+Best Acc: 0.510111
+ F1: 0.302704
+AUC: 0.509439
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-7==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.301538
+AUC: 0.585891
+Train Acc: 54.600% (1092/2000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.210461
+AUC: 0.509183
+Test Acc: 50.856% (9154/18000)
+Best Acc: 0.509000
+ F1: 0.324931
+AUC: 0.510447
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-8==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.176976
+AUC: 0.589657
+Train Acc: 52.100% (1042/2000) | Loss: 0.674
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.240576
+AUC: 0.508857
+Test Acc: 50.756% (9136/18000)
+Best Acc: 0.509222
+ F1: 0.244182
+AUC: 0.509405
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-9==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.636400
+AUC: 0.602790
+Train Acc: 54.350% (1087/2000) | Loss: 0.663
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.554954
+AUC: 0.511090
+Test Acc: 50.644% (9116/18000)
+Best Acc: 0.509000
+ F1: 0.324002
+AUC: 0.510662
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-10==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.417227
+AUC: 0.600131
+Train Acc: 56.700% (1134/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.403943
+AUC: 0.509448
+Test Acc: 50.617% (9111/18000)
+Best Acc: 0.508056
+ F1: 0.392369
+AUC: 0.509691
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-11==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.142985
+AUC: 0.599485
+Train Acc: 52.050% (1041/2000) | Loss: 0.674
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.234938
+AUC: 0.510303
+Test Acc: 50.900% (9162/18000)
+Best Acc: 0.509000
+ F1: 0.234938
+AUC: 0.510303
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-12==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.283019
+AUC: 0.589095
+Train Acc: 54.400% (1088/2000) | Loss: 0.669
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.238333
+AUC: 0.509849
+Test Acc: 50.856% (9154/18000)
+Best Acc: 0.508889
+ F1: 0.267727
+AUC: 0.511397
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-13==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.351744
+AUC: 0.590263
+Train Acc: 55.400% (1108/2000) | Loss: 0.664
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.274789
+AUC: 0.510671
+Test Acc: 50.794% (9143/18000)
+Best Acc: 0.507944
+ F1: 0.274789
+AUC: 0.510671
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-14==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.255909
+AUC: 0.597163
+Train Acc: 54.350% (1087/2000) | Loss: 0.670
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.264352
+AUC: 0.511215
+Test Acc: 51.022% (9184/18000)
+Best Acc: 0.510222
+ F1: 0.264352
+AUC: 0.511215
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-15==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.303502
+AUC: 0.607860
+Train Acc: 55.250% (1105/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.332677
+AUC: 0.510326
+Test Acc: 51.033% (9186/18000)
+Best Acc: 0.511333
+ F1: 0.327420
+AUC: 0.511720
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-16==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.428758
+AUC: 0.592480
+Train Acc: 56.300% (1126/2000) | Loss: 0.661
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.320838
+AUC: 0.509731
+Test Acc: 50.983% (9177/18000)
+Best Acc: 0.509833
+ F1: 0.320838
+AUC: 0.509731
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-17==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.647740
+AUC: 0.607313
+Train Acc: 52.850% (1057/2000) | Loss: 0.663
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.633561
+AUC: 0.510092
+Test Acc: 50.272% (9049/18000)
+Best Acc: 0.508667
+ F1: 0.221342
+AUC: 0.508356
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-18==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.281176
+AUC: 0.603067
+Train Acc: 54.750% (1095/2000) | Loss: 0.669
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.366504
+AUC: 0.509788
+Test Acc: 50.911% (9164/18000)
+Best Acc: 0.510222
+ F1: 0.352812
+AUC: 0.510547
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-19==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.235196
+AUC: 0.605475
+Train Acc: 54.150% (1083/2000) | Loss: 0.670
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.201046
+AUC: 0.510101
+Test Acc: 50.767% (9138/18000)
+Best Acc: 0.510000
+ F1: 0.300111
+AUC: 0.510356
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-20==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.534066
+AUC: 0.608440
+Train Acc: 57.600% (1152/2000) | Loss: 0.659
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.365576
+AUC: 0.512319
+Test Acc: 51.100% (9198/18000)
+Best Acc: 0.511000
+ F1: 0.365576
+AUC: 0.512319
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-21==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.422327
+AUC: 0.605904
+Train Acc: 57.050% (1141/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.343239
+AUC: 0.510415
+Test Acc: 50.889% (9160/18000)
+Best Acc: 0.509389
+ F1: 0.360397
+AUC: 0.510475
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-22==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.115349
+AUC: 0.606473
+Train Acc: 52.450% (1049/2000) | Loss: 0.675
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.104980
+AUC: 0.509891
+Test Acc: 50.172% (9031/18000)
+Best Acc: 0.509444
+ F1: 0.206791
+AUC: 0.509825
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-23==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.575711
+AUC: 0.614639
+Train Acc: 58.950% (1179/2000) | Loss: 0.657
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.451052
+AUC: 0.510649
+Test Acc: 50.872% (9157/18000)
+Best Acc: 0.508722
+ F1: 0.451052
+AUC: 0.510649
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-24==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.438538
+AUC: 0.616224
+Train Acc: 57.750% (1155/2000) | Loss: 0.660
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.313994
+AUC: 0.510523
+Test Acc: 51.061% (9191/18000)
+Best Acc: 0.510611
+ F1: 0.313994
+AUC: 0.510523
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-25==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.326878
+AUC: 0.628168
+Train Acc: 56.550% (1131/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.342951
+AUC: 0.509995
+Test Acc: 51.039% (9187/18000)
+Best Acc: 0.510722
+ F1: 0.343594
+AUC: 0.510440
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-26==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.157565
+AUC: 0.620447
+Train Acc: 52.950% (1059/2000) | Loss: 0.676
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.214184
+AUC: 0.510522
+Test Acc: 50.878% (9158/18000)
+Best Acc: 0.509222
+ F1: 0.241587
+AUC: 0.510794
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-27==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.100652
+AUC: 0.604584
+Train Acc: 51.750% (1035/2000) | Loss: 0.682
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.095123
+AUC: 0.509483
+Test Acc: 50.217% (9039/18000)
+Best Acc: 0.509111
+ F1: 0.235508
+AUC: 0.509443
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-28==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.110798
+AUC: 0.617070
+Train Acc: 52.650% (1053/2000) | Loss: 0.674
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.177241
+AUC: 0.510923
+Test Acc: 50.794% (9143/18000)
+Best Acc: 0.511667
+ F1: 0.345105
+AUC: 0.510731
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-29==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.118409
+AUC: 0.616904
+Train Acc: 52.350% (1047/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.165008
+AUC: 0.508956
+Test Acc: 50.578% (9104/18000)
+Best Acc: 0.509000
+ F1: 0.241373
+AUC: 0.509340
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-30==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.231224
+AUC: 0.620829
+Train Acc: 54.450% (1089/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.222105
+AUC: 0.510413
+Test Acc: 50.889% (9160/18000)
+Best Acc: 0.508944
+ F1: 0.236240
+AUC: 0.510427
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-31==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.358519
+AUC: 0.640335
+Train Acc: 56.700% (1134/2000) | Loss: 0.658
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.503789
+AUC: 0.510943
+Test Acc: 50.883% (9159/18000)
+Best Acc: 0.509056
+ F1: 0.261799
+AUC: 0.510309
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-32==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.218213
+AUC: 0.623888
+Train Acc: 54.500% (1090/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.148524
+AUC: 0.510153
+Test Acc: 50.633% (9114/18000)
+Best Acc: 0.511389
+ F1: 0.383197
+AUC: 0.510530
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-33==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.289689
+AUC: 0.627832
+Train Acc: 56.600% (1132/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.236581
+AUC: 0.511536
+Test Acc: 50.772% (9139/18000)
+Best Acc: 0.510333
+ F1: 0.325425
+AUC: 0.510499
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-34==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.287550
+AUC: 0.629870
+Train Acc: 55.650% (1113/2000) | Loss: 0.663
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.186204
+AUC: 0.510358
+Test Acc: 50.711% (9128/18000)
+Best Acc: 0.508556
+ F1: 0.459885
+AUC: 0.511386
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-35==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.239933
+AUC: 0.629478
+Train Acc: 54.700% (1094/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.304853
+AUC: 0.510439
+Test Acc: 50.822% (9148/18000)
+Best Acc: 0.509389
+ F1: 0.216067
+AUC: 0.509888
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-36==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.059961
+AUC: 0.630477
+Train Acc: 51.400% (1028/2000) | Loss: 0.673
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.085837
+AUC: 0.510877
+Test Acc: 50.300% (9054/18000)
+Best Acc: 0.509556
+ F1: 0.363427
+AUC: 0.510187
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-37==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.129271
+AUC: 0.612225
+Train Acc: 52.850% (1057/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.122553
+AUC: 0.510762
+Test Acc: 50.439% (9079/18000)
+Best Acc: 0.508833
+ F1: 0.206445
+AUC: 0.510034
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-38==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.356287
+AUC: 0.620327
+Train Acc: 57.000% (1140/2000) | Loss: 0.661
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.247920
+AUC: 0.509593
+Test Acc: 50.789% (9142/18000)
+Best Acc: 0.508778
+ F1: 0.375124
+AUC: 0.510656
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-39==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.340031
+AUC: 0.631063
+Train Acc: 57.300% (1146/2000) | Loss: 0.659
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.469062
+AUC: 0.511479
+Test Acc: 50.900% (9162/18000)
+Best Acc: 0.509778
+ F1: 0.359652
+AUC: 0.510385
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==resnet18==-40==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.525346
+AUC: 0.627472
+Train Acc: 58.800% (1176/2000) | Loss: 0.658
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.398288
+AUC: 0.510354
+Test Acc: 50.783% (9141/18000)
+Best Acc: 0.509444
+ F1: 0.366298
+AUC: 0.510697
+Saved Attack Model to ./models/adversary/tinyimagenet200-resnet18-random/meminf_attack0.pth
+
+tinyimagenet200==alexnet==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666222
+AUC: 0.551763
+Train Acc: 49.950% (999/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.508445
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.509778
+ F1: 0.386626
+AUC: 0.511460
+Saved Attack Model to ./models/adversary/tinyimagenet200-alexnet-random/meminf_attack0.pth
+
+tinyimagenet200==alexnet==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.203811
+AUC: 0.506079
+Train Acc: 51.950% (1039/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.094708
+AUC: 0.504536
+Test Acc: 50.294% (9053/18000)
+Best Acc: 0.504000
+ F1: 0.108804
+AUC: 0.506903
+Saved Attack Model to ./models/adversary/tinyimagenet200-alexnet-random/meminf_attack0.pth
+
+tinyimagenet200==alexnet==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.460157
+AUC: 0.525184
+Train Acc: 51.900% (1038/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.213844
+AUC: 0.502463
+Test Acc: 50.533% (9096/18000)
+Best Acc: 0.505333
+ F1: 0.213844
+AUC: 0.502463
+Saved Attack Model to ./models/adversary/tinyimagenet200-alexnet-random/meminf_attack0.pth
+
+tinyimagenet200==alexnet==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.005970
+AUC: 0.499016
+Train Acc: 50.050% (1001/2000) | Loss: 0.674
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.000888
+AUC: 0.506726
+Test Acc: 49.989% (8998/18000)
+Best Acc: 0.506667
+ F1: 0.625664
+AUC: 0.511810
+Saved Attack Model to ./models/adversary/tinyimagenet200-alexnet-random/meminf_attack0.pth
+
+tinyimagenet200==alexnet==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.667112
+AUC: 0.521298
+Train Acc: 50.200% (1004/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.665600
+AUC: 0.503879
+Test Acc: 50.050% (9009/18000)
+Best Acc: 0.505667
+ F1: 0.587253
+AUC: 0.508913
+Saved Attack Model to ./models/adversary/tinyimagenet200-alexnet-random/meminf_attack0.pth
+
+tinyimagenet200==alexnet==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.000000
+AUC: 0.507590
+Train Acc: 50.000% (1000/2000) | Loss: 0.675
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.000000
+AUC: 0.497452
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.502056
+ F1: 0.655070
+AUC: 0.497365
+Saved Attack Model to ./models/adversary/tinyimagenet200-alexnet-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.173298
+AUC: 0.589255
+Train Acc: 53.250% (1065/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.311217
+AUC: 0.527330
+Test Acc: 51.728% (9311/18000)
+Best Acc: 0.522556
+ F1: 0.475144
+AUC: 0.528856
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.033301
+AUC: 0.567658
+Train Acc: 50.650% (1013/2000) | Loss: 0.679
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.080329
+AUC: 0.524636
+Test Acc: 50.261% (9047/18000)
+Best Acc: 0.517722
+ F1: 0.347833
+AUC: 0.528051
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.546223
+AUC: 0.601065
+Train Acc: 57.050% (1141/2000) | Loss: 0.660
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.395649
+AUC: 0.526671
+Test Acc: 51.544% (9278/18000)
+Best Acc: 0.520278
+ F1: 0.533268
+AUC: 0.528737
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.390558
+AUC: 0.602785
+Train Acc: 57.400% (1148/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.492865
+AUC: 0.528973
+Test Acc: 52.222% (9400/18000)
+Best Acc: 0.522222
+ F1: 0.492865
+AUC: 0.528973
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.389368
+AUC: 0.592005
+Train Acc: 57.500% (1150/2000) | Loss: 0.663
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.339806
+AUC: 0.528264
+Test Acc: 51.644% (9296/18000)
+Best Acc: 0.524444
+ F1: 0.492410
+AUC: 0.530139
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.117539
+AUC: 0.586935
+Train Acc: 51.950% (1039/2000) | Loss: 0.673
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.230560
+AUC: 0.526542
+Test Acc: 51.239% (9223/18000)
+Best Acc: 0.521556
+ F1: 0.466881
+AUC: 0.530179
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-6==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.248756
+AUC: 0.601733
+Train Acc: 54.700% (1094/2000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.415289
+AUC: 0.529242
+Test Acc: 52.067% (9372/18000)
+Best Acc: 0.524278
+ F1: 0.470275
+AUC: 0.530808
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-7==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.663306
+AUC: 0.606989
+Train Acc: 49.900% (998/2000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.665075
+AUC: 0.529104
+Test Acc: 50.111% (9020/18000)
+Best Acc: 0.522500
+ F1: 0.490183
+AUC: 0.529422
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-8==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.638743
+AUC: 0.602926
+Train Acc: 51.700% (1034/2000) | Loss: 0.664
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.618382
+AUC: 0.527628
+Test Acc: 51.028% (9185/18000)
+Best Acc: 0.521611
+ F1: 0.476948
+AUC: 0.527815
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-9==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.348872
+AUC: 0.584888
+Train Acc: 56.700% (1134/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.351497
+AUC: 0.526461
+Test Acc: 51.867% (9336/18000)
+Best Acc: 0.523333
+ F1: 0.507689
+AUC: 0.528201
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-10==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.637723
+AUC: 0.601411
+Train Acc: 50.350% (1007/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.647750
+AUC: 0.528710
+Test Acc: 50.689% (9124/18000)
+Best Acc: 0.521833
+ F1: 0.490861
+AUC: 0.529179
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-11==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.420984
+AUC: 0.566690
+Train Acc: 55.850% (1117/2000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.329243
+AUC: 0.527478
+Test Acc: 51.717% (9309/18000)
+Best Acc: 0.523056
+ F1: 0.511522
+AUC: 0.530939
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-12==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.547464
+AUC: 0.577957
+Train Acc: 54.950% (1099/2000) | Loss: 0.664
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.483805
+AUC: 0.528849
+Test Acc: 52.367% (9426/18000)
+Best Acc: 0.523667
+ F1: 0.483805
+AUC: 0.528849
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-13==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.120658
+AUC: 0.581678
+Train Acc: 51.900% (1038/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.508646
+AUC: 0.527723
+Test Acc: 52.011% (9362/18000)
+Best Acc: 0.522667
+ F1: 0.414155
+AUC: 0.529478
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-14==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.651436
+AUC: 0.573223
+Train Acc: 49.650% (993/2000) | Loss: 0.669
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.656723
+AUC: 0.529869
+Test Acc: 50.261% (9047/18000)
+Best Acc: 0.522889
+ F1: 0.498189
+AUC: 0.527997
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-15==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.569240
+Train Acc: 50.000% (1000/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.527474
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.517500
+ F1: 0.442232
+AUC: 0.524736
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-16==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.007905
+AUC: 0.556766
+Train Acc: 49.800% (996/2000) | Loss: 0.674
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.373474
+AUC: 0.519775
+Test Acc: 51.239% (9223/18000)
+Best Acc: 0.521722
+ F1: 0.394116
+AUC: 0.530745
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-17==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.664661
+AUC: 0.540383
+Train Acc: 49.850% (997/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666642
+AUC: 0.529910
+Test Acc: 50.011% (9002/18000)
+Best Acc: 0.518667
+ F1: 0.520690
+AUC: 0.525101
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-18==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.000000
+AUC: 0.535230
+Train Acc: 50.000% (1000/2000) | Loss: 0.677
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.214895
+AUC: 0.527238
+Test Acc: 51.450% (9261/18000)
+Best Acc: 0.514500
+ F1: 0.214895
+AUC: 0.527238
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-19==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.015842
+AUC: 0.484913
+Train Acc: 50.300% (1006/2000) | Loss: 0.676
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.007930
+AUC: 0.505278
+Test Acc: 49.961% (8993/18000)
+Best Acc: 0.523111
+ F1: 0.498598
+AUC: 0.526553
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-20==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.038573
+AUC: 0.487354
+Train Acc: 50.150% (1003/2000) | Loss: 0.674
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.000000
+AUC: 0.501668
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.514333
+ F1: 0.363663
+AUC: 0.518418
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-21==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.403177
+AUC: 0.511394
+Train Acc: 51.150% (1023/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.334714
+AUC: 0.508846
+Test Acc: 50.928% (9167/18000)
+Best Acc: 0.509278
+ F1: 0.334714
+AUC: 0.508846
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-22==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.644958
+AUC: 0.516879
+Train Acc: 49.300% (986/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.660683
+AUC: 0.524839
+Test Acc: 50.222% (9040/18000)
+Best Acc: 0.514944
+ F1: 0.349355
+AUC: 0.527198
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-23==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.508526
+AUC: 0.512655
+Train Acc: 51.000% (1020/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.498342
+AUC: 0.518286
+Test Acc: 51.267% (9228/18000)
+Best Acc: 0.512667
+ F1: 0.498342
+AUC: 0.518286
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-24==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.088643
+AUC: 0.524768
+Train Acc: 50.650% (1013/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.465855
+AUC: 0.525654
+Test Acc: 51.767% (9318/18000)
+Best Acc: 0.517667
+ F1: 0.465855
+AUC: 0.525654
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-25==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.610526
+AUC: 0.530776
+Train Acc: 51.900% (1038/2000) | Loss: 0.671
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.527400
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.514222
+ F1: 0.500970
+AUC: 0.517595
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+tinyimagenet200==vgg16_bn==-26==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.000000
+AUC: 0.522043
+Train Acc: 50.000% (1000/2000) | Loss: 0.673
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.348739
+AUC: 0.518437
+Test Acc: 51.072% (9193/18000)
+Best Acc: 0.516333
+ F1: 0.321540
+AUC: 0.526104
+Saved Attack Model to ./models/adversary/tinyimagenet200-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==resnet18==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.689527
+AUC: 0.686428
+Train Acc: 66.500% (1330/2000) | Loss: 0.612
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.573166
+AUC: 0.536031
+Test Acc: 53.217% (9579/18000)
+Best Acc: 0.535444
+ F1: 0.637349
+AUC: 0.534918
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.703398
+AUC: 0.692549
+Train Acc: 67.700% (1354/2000) | Loss: 0.605
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.541194
+AUC: 0.534446
+Test Acc: 52.572% (9463/18000)
+Best Acc: 0.535667
+ F1: 0.632324
+AUC: 0.534639
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.745913
+AUC: 0.727633
+Train Acc: 71.250% (1425/2000) | Loss: 0.575
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.632279
+AUC: 0.536690
+Test Acc: 53.900% (9702/18000)
+Best Acc: 0.539389
+ F1: 0.632312
+AUC: 0.536699
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.730512
+AUC: 0.727670
+Train Acc: 69.750% (1395/2000) | Loss: 0.584
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.601457
+AUC: 0.535858
+Test Acc: 53.506% (9631/18000)
+Best Acc: 0.537667
+ F1: 0.630855
+AUC: 0.535460
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.710373
+AUC: 0.705367
+Train Acc: 67.750% (1355/2000) | Loss: 0.599
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.576453
+AUC: 0.535864
+Test Acc: 53.172% (9571/18000)
+Best Acc: 0.535667
+ F1: 0.629554
+AUC: 0.535119
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.725972
+AUC: 0.719810
+Train Acc: 69.350% (1387/2000) | Loss: 0.587
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.561433
+AUC: 0.534924
+Test Acc: 52.922% (9526/18000)
+Best Acc: 0.535722
+ F1: 0.622692
+AUC: 0.535104
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-6==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.714055
+AUC: 0.680147
+Train Acc: 64.600% (1292/2000) | Loss: 0.627
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.653610
+AUC: 0.538159
+Test Acc: 53.622% (9652/18000)
+Best Acc: 0.538944
+ F1: 0.632609
+AUC: 0.536731
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-7==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.731231
+AUC: 0.717815
+Train Acc: 69.750% (1395/2000) | Loss: 0.583
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.590559
+AUC: 0.535754
+Test Acc: 53.356% (9604/18000)
+Best Acc: 0.536056
+ F1: 0.602693
+AUC: 0.535941
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-8==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.712551
+AUC: 0.700721
+Train Acc: 68.050% (1361/2000) | Loss: 0.601
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.625648
+AUC: 0.536784
+Test Acc: 53.861% (9695/18000)
+Best Acc: 0.539833
+ F1: 0.630372
+AUC: 0.536872
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-9==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.714835
+AUC: 0.691144
+Train Acc: 66.650% (1333/2000) | Loss: 0.610
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.635364
+AUC: 0.536702
+Test Acc: 53.922% (9706/18000)
+Best Acc: 0.539278
+ F1: 0.629992
+AUC: 0.536540
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-10==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.722025
+AUC: 0.707184
+Train Acc: 68.700% (1374/2000) | Loss: 0.593
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.633470
+AUC: 0.536757
+Test Acc: 53.872% (9697/18000)
+Best Acc: 0.539167
+ F1: 0.627476
+AUC: 0.536583
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-11==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.738314
+AUC: 0.723271
+Train Acc: 70.050% (1401/2000) | Loss: 0.582
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.618700
+AUC: 0.536389
+Test Acc: 53.806% (9685/18000)
+Best Acc: 0.538056
+ F1: 0.618700
+AUC: 0.536389
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-12==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.730637
+AUC: 0.715178
+Train Acc: 68.700% (1374/2000) | Loss: 0.593
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.624718
+AUC: 0.536835
+Test Acc: 53.844% (9692/18000)
+Best Acc: 0.539833
+ F1: 0.624269
+AUC: 0.536538
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-13==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.619400
+AUC: 0.552356
+Train Acc: 51.150% (1023/2000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.664682
+AUC: 0.515973
+Test Acc: 50.556% (9100/18000)
+Best Acc: 0.521389
+ F1: 0.645896
+AUC: 0.526390
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-14==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.758410
+AUC: 0.747374
+Train Acc: 72.350% (1447/2000) | Loss: 0.566
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.621431
+AUC: 0.536128
+Test Acc: 53.817% (9687/18000)
+Best Acc: 0.538167
+ F1: 0.621431
+AUC: 0.536128
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-15==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.665064
+AUC: 0.564217
+Train Acc: 51.250% (1025/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.658296
+AUC: 0.519447
+Test Acc: 50.561% (9101/18000)
+Best Acc: 0.524889
+ F1: 0.571886
+AUC: 0.530376
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-16==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.728777
+AUC: 0.714302
+Train Acc: 68.850% (1377/2000) | Loss: 0.590
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.629160
+AUC: 0.536634
+Test Acc: 53.822% (9688/18000)
+Best Acc: 0.538833
+ F1: 0.625288
+AUC: 0.536303
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-17==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.700909
+AUC: 0.697113
+Train Acc: 67.100% (1342/2000) | Loss: 0.606
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.645601
+AUC: 0.536836
+Test Acc: 53.828% (9689/18000)
+Best Acc: 0.539111
+ F1: 0.631387
+AUC: 0.536385
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-18==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.735512
+AUC: 0.707873
+Train Acc: 69.650% (1393/2000) | Loss: 0.595
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.619966
+AUC: 0.536076
+Test Acc: 53.706% (9667/18000)
+Best Acc: 0.538111
+ F1: 0.618694
+AUC: 0.536367
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-19==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.713829
+AUC: 0.716163
+Train Acc: 68.650% (1373/2000) | Loss: 0.588
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.594563
+AUC: 0.535872
+Test Acc: 53.433% (9618/18000)
+Best Acc: 0.536389
+ F1: 0.602903
+AUC: 0.535940
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-20==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.735348
+AUC: 0.741328
+Train Acc: 71.100% (1422/2000) | Loss: 0.572
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.580385
+AUC: 0.535305
+Test Acc: 53.222% (9580/18000)
+Best Acc: 0.536167
+ F1: 0.625589
+AUC: 0.535253
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-21==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.647898
+AUC: 0.565330
+Train Acc: 53.100% (1062/2000) | Loss: 0.669
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666793
+AUC: 0.537223
+Test Acc: 51.122% (9202/18000)
+Best Acc: 0.538056
+ F1: 0.640370
+AUC: 0.536674
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-22==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.728495
+AUC: 0.717424
+Train Acc: 69.700% (1394/2000) | Loss: 0.585
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.609156
+AUC: 0.536171
+Test Acc: 53.611% (9650/18000)
+Best Acc: 0.536889
+ F1: 0.631542
+AUC: 0.535370
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-23==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.744943
+AUC: 0.725288
+Train Acc: 71.000% (1420/2000) | Loss: 0.580
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.622493
+AUC: 0.536165
+Test Acc: 53.883% (9699/18000)
+Best Acc: 0.538833
+ F1: 0.622493
+AUC: 0.536165
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-24==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.729449
+AUC: 0.689905
+Train Acc: 66.100% (1322/2000) | Loss: 0.617
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.657658
+AUC: 0.538887
+Test Acc: 52.989% (9538/18000)
+Best Acc: 0.539944
+ F1: 0.630692
+AUC: 0.537317
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-25==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.740018
+AUC: 0.724349
+Train Acc: 70.700% (1414/2000) | Loss: 0.577
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.595925
+AUC: 0.535744
+Test Acc: 53.500% (9630/18000)
+Best Acc: 0.536000
+ F1: 0.643138
+AUC: 0.535317
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-26==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.733246
+AUC: 0.727591
+Train Acc: 69.550% (1391/2000) | Loss: 0.586
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.627178
+AUC: 0.536473
+Test Acc: 53.878% (9698/18000)
+Best Acc: 0.538778
+ F1: 0.627178
+AUC: 0.536473
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-27==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.747331
+AUC: 0.738196
+Train Acc: 71.600% (1432/2000) | Loss: 0.571
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.593954
+AUC: 0.535806
+Test Acc: 53.361% (9605/18000)
+Best Acc: 0.536333
+ F1: 0.632561
+AUC: 0.535203
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-28==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.721839
+AUC: 0.720846
+Train Acc: 69.750% (1395/2000) | Loss: 0.585
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.598609
+AUC: 0.535850
+Test Acc: 53.494% (9629/18000)
+Best Acc: 0.537278
+ F1: 0.605690
+AUC: 0.536032
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-29==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.727744
+AUC: 0.704826
+Train Acc: 68.500% (1370/2000) | Loss: 0.593
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.627960
+AUC: 0.536843
+Test Acc: 53.828% (9689/18000)
+Best Acc: 0.538278
+ F1: 0.618148
+AUC: 0.536638
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-30==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.721736
+AUC: 0.682558
+Train Acc: 66.650% (1333/2000) | Loss: 0.614
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.647401
+AUC: 0.537501
+Test Acc: 53.906% (9703/18000)
+Best Acc: 0.539500
+ F1: 0.635312
+AUC: 0.536843
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-31==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.757827
+AUC: 0.750420
+Train Acc: 73.700% (1474/2000) | Loss: 0.557
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.597926
+AUC: 0.535459
+Test Acc: 53.467% (9624/18000)
+Best Acc: 0.536889
+ F1: 0.608160
+AUC: 0.535837
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-32==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.746123
+AUC: 0.734870
+Train Acc: 71.350% (1427/2000) | Loss: 0.574
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.603954
+AUC: 0.536065
+Test Acc: 53.594% (9647/18000)
+Best Acc: 0.535944
+ F1: 0.603954
+AUC: 0.536065
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-33==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.756709
+AUC: 0.740730
+Train Acc: 72.350% (1447/2000) | Loss: 0.565
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.632204
+AUC: 0.536707
+Test Acc: 53.911% (9704/18000)
+Best Acc: 0.539556
+ F1: 0.636969
+AUC: 0.536808
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-34==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.746010
+AUC: 0.740105
+Train Acc: 72.150% (1443/2000) | Loss: 0.568
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.581591
+AUC: 0.535196
+Test Acc: 53.206% (9577/18000)
+Best Acc: 0.536500
+ F1: 0.631086
+AUC: 0.535186
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-35==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.742832
+AUC: 0.730927
+Train Acc: 70.400% (1408/2000) | Loss: 0.579
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.633363
+AUC: 0.536701
+Test Acc: 53.844% (9692/18000)
+Best Acc: 0.539167
+ F1: 0.631120
+AUC: 0.536589
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-36==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.742156
+AUC: 0.743921
+Train Acc: 71.650% (1433/2000) | Loss: 0.569
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.587964
+AUC: 0.535593
+Test Acc: 53.328% (9599/18000)
+Best Acc: 0.535444
+ F1: 0.625157
+AUC: 0.534812
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-37==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.757685
+AUC: 0.757076
+Train Acc: 73.200% (1464/2000) | Loss: 0.556
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.604108
+AUC: 0.535848
+Test Acc: 53.522% (9634/18000)
+Best Acc: 0.535778
+ F1: 0.604618
+AUC: 0.535631
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-38==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.759325
+AUC: 0.751205
+Train Acc: 72.900% (1458/2000) | Loss: 0.558
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.612562
+AUC: 0.536187
+Test Acc: 53.667% (9660/18000)
+Best Acc: 0.537722
+ F1: 0.612454
+AUC: 0.536091
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-39==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.757042
+AUC: 0.748466
+Train Acc: 72.400% (1448/2000) | Loss: 0.568
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.617673
+AUC: 0.536146
+Test Acc: 53.728% (9671/18000)
+Best Acc: 0.538667
+ F1: 0.623606
+AUC: 0.536275
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==-40==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.685347
+AUC: 0.678035
+Train Acc: 65.750% (1315/2000) | Loss: 0.616
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.643427
+AUC: 0.536114
+Test Acc: 53.800% (9684/18000)
+Best Acc: 0.539278
+ F1: 0.628600
+AUC: 0.536531
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==alexnet==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.688663
+AUC: 0.675563
+Train Acc: 63.200% (1264/2000) | Loss: 0.632
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.648086
+AUC: 0.563130
+Test Acc: 55.667% (10020/18000)
+Best Acc: 0.559278
+ F1: 0.618147
+AUC: 0.562554
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==alexnet==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.676212
+AUC: 0.684486
+Train Acc: 64.950% (1299/2000) | Loss: 0.619
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.606452
+AUC: 0.561294
+Test Acc: 55.678% (10022/18000)
+Best Acc: 0.556778
+ F1: 0.606452
+AUC: 0.561294
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==alexnet==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.640516
+AUC: 0.674596
+Train Acc: 63.800% (1276/2000) | Loss: 0.625
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.559703
+AUC: 0.560408
+Test Acc: 55.178% (9932/18000)
+Best Acc: 0.554444
+ F1: 0.584843
+AUC: 0.560334
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==alexnet==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.684444
+AUC: 0.677518
+Train Acc: 64.500% (1290/2000) | Loss: 0.623
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.609922
+AUC: 0.561357
+Test Acc: 55.750% (10035/18000)
+Best Acc: 0.557500
+ F1: 0.609922
+AUC: 0.561357
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==alexnet==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.665101
+AUC: 0.671839
+Train Acc: 64.350% (1287/2000) | Loss: 0.624
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.590076
+AUC: 0.560504
+Test Acc: 55.756% (10036/18000)
+Best Acc: 0.557556
+ F1: 0.590076
+AUC: 0.560504
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==alexnet==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.678655
+AUC: 0.632198
+Train Acc: 58.900% (1178/2000) | Loss: 0.665
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.665465
+AUC: 0.561862
+Test Acc: 52.567% (9462/18000)
+Best Acc: 0.554333
+ F1: 0.615952
+AUC: 0.554952
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.693675
+AUC: 0.637076
+Train Acc: 62.950% (1259/2000) | Loss: 0.627
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.446655
+AUC: 0.512813
+Test Acc: 50.556% (9100/18000)
+Best Acc: 0.513000
+ F1: 0.560337
+AUC: 0.513512
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.694444
+AUC: 0.647529
+Train Acc: 62.600% (1252/2000) | Loss: 0.625
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.423860
+AUC: 0.512036
+Test Acc: 50.311% (9056/18000)
+Best Acc: 0.514056
+ F1: 0.554157
+AUC: 0.513673
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.718869
+AUC: 0.652953
+Train Acc: 63.200% (1264/2000) | Loss: 0.632
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.518111
+AUC: 0.512965
+Test Acc: 51.294% (9233/18000)
+Best Acc: 0.513222
+ F1: 0.560008
+AUC: 0.513960
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.677324
+AUC: 0.626924
+Train Acc: 61.650% (1233/2000) | Loss: 0.641
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.284923
+AUC: 0.512457
+Test Acc: 49.806% (8965/18000)
+Best Acc: 0.514778
+ F1: 0.508774
+AUC: 0.512423
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.421896
+AUC: 0.642207
+Train Acc: 56.700% (1134/2000) | Loss: 0.657
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.118041
+AUC: 0.513945
+Test Acc: 50.189% (9034/18000)
+Best Acc: 0.516444
+ F1: 0.533648
+AUC: 0.513468
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.712727
+AUC: 0.630419
+Train Acc: 60.500% (1210/2000) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.536378
+AUC: 0.513125
+Test Acc: 51.500% (9270/18000)
+Best Acc: 0.516000
+ F1: 0.545113
+AUC: 0.513151
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-6==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.719941
+AUC: 0.633065
+Train Acc: 62.150% (1243/2000) | Loss: 0.651
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.477296
+AUC: 0.512567
+Test Acc: 50.950% (9171/18000)
+Best Acc: 0.512222
+ F1: 0.521317
+AUC: 0.512510
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-7==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.645958
+AUC: 0.575842
+Train Acc: 55.550% (1111/2000) | Loss: 0.666
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.628104
+AUC: 0.510746
+Test Acc: 50.994% (9179/18000)
+Best Acc: 0.512611
+ F1: 0.601282
+AUC: 0.510506
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-8==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.303779
+AUC: 0.598688
+Train Acc: 52.100% (1042/2000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.383727
+AUC: 0.511601
+Test Acc: 50.178% (9032/18000)
+Best Acc: 0.514333
+ F1: 0.569487
+AUC: 0.511451
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-9==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.703330
+AUC: 0.633935
+Train Acc: 60.350% (1207/2000) | Loss: 0.653
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.553392
+AUC: 0.512843
+Test Acc: 51.461% (9263/18000)
+Best Acc: 0.514611
+ F1: 0.553392
+AUC: 0.512843
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-10==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.706238
+AUC: 0.643818
+Train Acc: 61.150% (1223/2000) | Loss: 0.644
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.414176
+AUC: 0.512430
+Test Acc: 50.228% (9041/18000)
+Best Acc: 0.514722
+ F1: 0.544269
+AUC: 0.514623
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-11==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.468059
+AUC: 0.648146
+Train Acc: 56.700% (1134/2000) | Loss: 0.651
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.161577
+AUC: 0.512764
+Test Acc: 50.128% (9023/18000)
+Best Acc: 0.513833
+ F1: 0.518832
+AUC: 0.512631
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-12==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.705441
+AUC: 0.630760
+Train Acc: 60.750% (1215/2000) | Loss: 0.643
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.535661
+AUC: 0.512425
+Test Acc: 51.389% (9250/18000)
+Best Acc: 0.513944
+ F1: 0.531613
+AUC: 0.514432
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-13==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.702194
+AUC: 0.646288
+Train Acc: 62.000% (1240/2000) | Loss: 0.631
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.284626
+AUC: 0.513248
+Test Acc: 49.900% (8982/18000)
+Best Acc: 0.515222
+ F1: 0.549184
+AUC: 0.514614
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-14==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.711916
+AUC: 0.633804
+Train Acc: 61.800% (1236/2000) | Loss: 0.647
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.438668
+AUC: 0.512902
+Test Acc: 50.450% (9081/18000)
+Best Acc: 0.514944
+ F1: 0.540836
+AUC: 0.514592
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-15==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.711414
+AUC: 0.618892
+Train Acc: 61.950% (1239/2000) | Loss: 0.642
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.473053
+AUC: 0.513303
+Test Acc: 50.950% (9171/18000)
+Best Acc: 0.514722
+ F1: 0.525401
+AUC: 0.513237
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-16==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.713800
+AUC: 0.637752
+Train Acc: 62.150% (1243/2000) | Loss: 0.639
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.467456
+AUC: 0.512724
+Test Acc: 50.772% (9139/18000)
+Best Acc: 0.513778
+ F1: 0.517690
+AUC: 0.513095
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-17==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.711474
+AUC: 0.656123
+Train Acc: 61.150% (1223/2000) | Loss: 0.649
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.574664
+AUC: 0.512895
+Test Acc: 51.167% (9210/18000)
+Best Acc: 0.516056
+ F1: 0.539855
+AUC: 0.512714
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-18==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.671901
+AUC: 0.626100
+Train Acc: 60.300% (1206/2000) | Loss: 0.645
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.217836
+AUC: 0.515561
+Test Acc: 50.250% (9045/18000)
+Best Acc: 0.515278
+ F1: 0.531242
+AUC: 0.514389
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-19==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.593418
+AUC: 0.652038
+Train Acc: 59.850% (1197/2000) | Loss: 0.636
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.349974
+AUC: 0.515717
+Test Acc: 50.450% (9081/18000)
+Best Acc: 0.515889
+ F1: 0.542860
+AUC: 0.512894
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-20==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.634891
+AUC: 0.651487
+Train Acc: 60.550% (1211/2000) | Loss: 0.632
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.504774
+AUC: 0.516954
+Test Acc: 51.011% (9182/18000)
+Best Acc: 0.517500
+ F1: 0.529141
+AUC: 0.514016
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-21==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.668403
+AUC: 0.646049
+Train Acc: 61.800% (1236/2000) | Loss: 0.634
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.559899
+AUC: 0.513401
+Test Acc: 51.344% (9242/18000)
+Best Acc: 0.515444
+ F1: 0.543542
+AUC: 0.513041
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-22==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.353436
+AUC: 0.621083
+Train Acc: 53.900% (1078/2000) | Loss: 0.660
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.006849
+AUC: 0.520047
+Test Acc: 50.050% (9009/18000)
+Best Acc: 0.516111
+ F1: 0.529393
+AUC: 0.512856
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-23==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.705014
+AUC: 0.665206
+Train Acc: 62.050% (1241/2000) | Loss: 0.634
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.564413
+AUC: 0.517274
+Test Acc: 51.217% (9219/18000)
+Best Acc: 0.516667
+ F1: 0.524174
+AUC: 0.514115
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-24==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.698347
+AUC: 0.655624
+Train Acc: 63.500% (1270/2000) | Loss: 0.628
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.528100
+AUC: 0.513655
+Test Acc: 51.578% (9284/18000)
+Best Acc: 0.515778
+ F1: 0.528100
+AUC: 0.513655
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-25==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.366947
+AUC: 0.621564
+Train Acc: 54.800% (1096/2000) | Loss: 0.661
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.187454
+AUC: 0.516408
+Test Acc: 50.633% (9114/18000)
+Best Acc: 0.515389
+ F1: 0.533055
+AUC: 0.512792
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==-26==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.384458
+AUC: 0.631818
+Train Acc: 54.850% (1097/2000) | Loss: 0.660
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.126950
+AUC: 0.513508
+Test Acc: 50.256% (9046/18000)
+Best Acc: 0.515889
+ F1: 0.616799
+AUC: 0.512441
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==alexnet==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.490898
+AUC: 0.664681
+Train Acc: 59.450% (1189/2000) | Loss: 0.649
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.701041
+AUC: 0.661812
+Test Acc: 63.472% (11425/18000)
+Best Acc: 0.641778
+ F1: 0.668449
+AUC: 0.671548
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==alexnet==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666067
+AUC: 0.677320
+Train Acc: 62.850% (1257/2000) | Loss: 0.642
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.701666
+AUC: 0.649957
+Test Acc: 59.717% (10749/18000)
+Best Acc: 0.648889
+ F1: 0.688915
+AUC: 0.670783
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==alexnet==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.690156
+AUC: 0.699285
+Train Acc: 57.350% (1147/2000) | Loss: 0.658
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.668898
+AUC: 0.644139
+Test Acc: 50.528% (9095/18000)
+Best Acc: 0.616000
+ F1: 0.606602
+AUC: 0.657676
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==alexnet==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.667560
+AUC: 0.691126
+Train Acc: 50.400% (1008/2000) | Loss: 0.689
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666691
+AUC: 0.645222
+Test Acc: 50.006% (9001/18000)
+Best Acc: 0.643611
+ F1: 0.690351
+AUC: 0.664809
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==alexnet==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.681628
+AUC: 0.672505
+Train Acc: 58.150% (1163/2000) | Loss: 0.654
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.708872
+AUC: 0.668722
+Test Acc: 63.978% (11516/18000)
+Best Acc: 0.655000
+ F1: 0.678438
+AUC: 0.684450
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==alexnet==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.648671
+AUC: 0.633799
+Train Acc: 57.700% (1154/2000) | Loss: 0.656
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.685521
+AUC: 0.694119
+Test Acc: 66.456% (11962/18000)
+Best Acc: 0.664556
+ F1: 0.685521
+AUC: 0.694119
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-0==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.457424
+AUC: 0.816437
+Train Acc: 61.450% (1229/2000) | Loss: 0.654
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.458297
+AUC: 0.639601
+Test Acc: 55.294% (9953/18000)
+Best Acc: 0.656833
+ F1: 0.728972
+AUC: 0.678539
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-1==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.673333
+AUC: 0.824987
+Train Acc: 70.600% (1412/2000) | Loss: 0.569
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.592681
+AUC: 0.652993
+Test Acc: 59.994% (10799/18000)
+Best Acc: 0.657222
+ F1: 0.722597
+AUC: 0.674150
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-2==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.600364
+AUC: 0.822590
+Train Acc: 67.050% (1341/2000) | Loss: 0.600
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.474491
+AUC: 0.640378
+Test Acc: 55.822% (10048/18000)
+Best Acc: 0.657333
+ F1: 0.727007
+AUC: 0.675057
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-3==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.562341
+AUC: 0.827481
+Train Acc: 65.600% (1312/2000) | Loss: 0.613
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.453002
+AUC: 0.638159
+Test Acc: 55.256% (9946/18000)
+Best Acc: 0.657778
+ F1: 0.729255
+AUC: 0.674607
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-4==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.483804
+AUC: 0.824037
+Train Acc: 62.550% (1251/2000) | Loss: 0.638
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.456228
+AUC: 0.639743
+Test Acc: 55.278% (9950/18000)
+Best Acc: 0.656889
+ F1: 0.720087
+AUC: 0.673590
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-5==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.514785
+AUC: 0.821898
+Train Acc: 63.900% (1278/2000) | Loss: 0.634
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.487310
+AUC: 0.641693
+Test Acc: 56.233% (10122/18000)
+Best Acc: 0.656222
+ F1: 0.725904
+AUC: 0.680310
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-6==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.652099
+AUC: 0.826032
+Train Acc: 69.750% (1395/2000) | Loss: 0.571
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.547588
+AUC: 0.647835
+Test Acc: 58.222% (10480/18000)
+Best Acc: 0.657389
+ F1: 0.725948
+AUC: 0.675740
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-7==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.793355
+AUC: 0.828596
+Train Acc: 74.500% (1490/2000) | Loss: 0.543
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.725481
+AUC: 0.680939
+Test Acc: 65.633% (11814/18000)
+Best Acc: 0.656333
+ F1: 0.725481
+AUC: 0.680939
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-8==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.808330
+AUC: 0.829287
+Train Acc: 77.450% (1549/2000) | Loss: 0.521
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.707740
+AUC: 0.675010
+Test Acc: 65.450% (11781/18000)
+Best Acc: 0.658278
+ F1: 0.732856
+AUC: 0.683749
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-9==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.787217
+AUC: 0.834306
+Train Acc: 73.700% (1474/2000) | Loss: 0.549
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.729689
+AUC: 0.684328
+Test Acc: 65.528% (11795/18000)
+Best Acc: 0.657778
+ F1: 0.728921
+AUC: 0.679511
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-10==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.781955
+AUC: 0.829892
+Train Acc: 72.450% (1449/2000) | Loss: 0.558
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.732551
+AUC: 0.687909
+Test Acc: 65.556% (11800/18000)
+Best Acc: 0.655556
+ F1: 0.732551
+AUC: 0.687909
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-11==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.766023
+AUC: 0.837361
+Train Acc: 69.700% (1394/2000) | Loss: 0.581
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.728778
+AUC: 0.698844
+Test Acc: 63.772% (11479/18000)
+Best Acc: 0.657167
+ F1: 0.718515
+AUC: 0.672274
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-12==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.803177
+AUC: 0.837333
+Train Acc: 77.700% (1554/2000) | Loss: 0.514
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.721462
+AUC: 0.680138
+Test Acc: 65.622% (11812/18000)
+Best Acc: 0.656222
+ F1: 0.721462
+AUC: 0.680138
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-13==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.727604
+AUC: 0.840763
+Train Acc: 62.600% (1252/2000) | Loss: 0.640
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.712711
+AUC: 0.704777
+Test Acc: 59.883% (10779/18000)
+Best Acc: 0.658000
+ F1: 0.723002
+AUC: 0.673054
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-14==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.788548
+AUC: 0.833102
+Train Acc: 74.150% (1483/2000) | Loss: 0.549
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.732167
+AUC: 0.685990
+Test Acc: 65.456% (11782/18000)
+Best Acc: 0.657389
+ F1: 0.728002
+AUC: 0.682268
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-15==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.668449
+AUC: 0.835410
+Train Acc: 50.400% (1008/2000) | Loss: 0.733
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.674008
+AUC: 0.710201
+Test Acc: 51.650% (9297/18000)
+Best Acc: 0.657278
+ F1: 0.721200
+AUC: 0.671938
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-16==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.667780
+AUC: 0.843001
+Train Acc: 50.250% (1005/2000) | Loss: 0.754
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.670017
+AUC: 0.719484
+Test Acc: 50.750% (9135/18000)
+Best Acc: 0.654944
+ F1: 0.717669
+AUC: 0.670153
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-17==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.820705
+Train Acc: 50.000% (1000/2000) | Loss: 0.773
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666691
+AUC: 0.715711
+Test Acc: 50.006% (9001/18000)
+Best Acc: 0.655278
+ F1: 0.727145
+AUC: 0.677310
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-18==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.668899
+AUC: 0.816441
+Train Acc: 50.550% (1011/2000) | Loss: 0.718
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666765
+AUC: 0.712594
+Test Acc: 50.022% (9004/18000)
+Best Acc: 0.646056
+ F1: 0.691043
+AUC: 0.664863
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-19==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.667780
+AUC: 0.810552
+Train Acc: 50.250% (1005/2000) | Loss: 0.740
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.719123
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.654889
+ F1: 0.713654
+AUC: 0.669895
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-20==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.809524
+Train Acc: 50.000% (1000/2000) | Loss: 0.752
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.718617
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.649500
+ F1: 0.729123
+AUC: 0.673425
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-21==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.806558
+Train Acc: 50.000% (1000/2000) | Loss: 0.757
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.711715
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.652778
+ F1: 0.727027
+AUC: 0.673300
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-22==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.823433
+Train Acc: 50.000% (1000/2000) | Loss: 0.740
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.709955
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.652278
+ F1: 0.704778
+AUC: 0.666206
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-23==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.815933
+Train Acc: 50.000% (1000/2000) | Loss: 0.758
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.714852
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.651389
+ F1: 0.727754
+AUC: 0.671488
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-24==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.812991
+Train Acc: 50.000% (1000/2000) | Loss: 0.745
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.716015
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.652556
+ F1: 0.729006
+AUC: 0.676900
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-25==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.821512
+Train Acc: 50.000% (1000/2000) | Loss: 0.760
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.715063
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.654778
+ F1: 0.728433
+AUC: 0.674876
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==-26==-1
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.811476
+Train Acc: 50.000% (1000/2000) | Loss: 0.759
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.714052
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.654667
+ F1: 0.719798
+AUC: 0.667752
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+

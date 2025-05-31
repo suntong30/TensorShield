@@ -1,0 +1,12 @@
+dataset,arch,layer_percent,channel_percent,epoch,final_acc,best_acc
+stl10,mobilenetv2,0,-1,100,74.2625,74.75
+stl10,mobilenetv2,0.1,-1,100,70.325,70.6875
+stl10,mobilenetv2,0.2,-1,100,71.2375,71.5375
+stl10,mobilenetv2,0.3,-1,100,70.0,70.125
+stl10,mobilenetv2,0.4,-1,100,71.325,71.6875
+stl10,mobilenetv2,0.5,-1,100,71.6625,72.075
+stl10,mobilenetv2,0.6,-1,100,68.2,68.7375
+stl10,mobilenetv2,0.7,-1,100,70.9375,71.1625
+stl10,mobilenetv2,0.8,-1,100,56.2625,56.75
+stl10,mobilenetv2,0.9,-1,100,73.2375,73.6125
+stl10,mobilenetv2,1,-1,100,76.55,76.95

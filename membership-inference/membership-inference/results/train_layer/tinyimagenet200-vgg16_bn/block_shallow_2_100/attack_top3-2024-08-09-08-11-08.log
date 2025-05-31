@@ -1,0 +1,63 @@
+Finished Saving Train Dataset to results/train_layer/tinyimagenet200-vgg16_bn/block_shallow_2_100/meminf_attack_top3_train.p
+Finished Saving Test Dataset to results/train_layer/tinyimagenet200-vgg16_bn/block_shallow_2_100/meminf_attack_top3_test.p
+Epoch 1 :
+Train Acc: 59.302% (32616/55000) | Loss: 0.676
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.482173
+AUC: 0.535857
+Test Acc: 52.309% (28770/55000)
+Epoch 2 :
+Train Acc: 59.571% (32764/55000) | Loss: 0.670
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.382232
+AUC: 0.536249
+Test Acc: 52.436% (28840/55000)
+Epoch 3 :
+Train Acc: 59.991% (32995/55000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.439009
+AUC: 0.536872
+Test Acc: 52.547% (28901/55000)
+Epoch 4 :
+Train Acc: 59.902% (32946/55000) | Loss: 0.668
+Test Acc: 52.515% (28883/55000)
+Epoch 5 :
+Train Acc: 59.951% (32973/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.460512
+AUC: 0.537617
+Test Acc: 52.667% (28967/55000)
+Epoch 6 :
+Train Acc: 59.969% (32983/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.456484
+AUC: 0.537756
+Test Acc: 52.685% (28977/55000)
+Epoch 7 :
+Train Acc: 60.015% (33008/55000) | Loss: 0.668
+Test Acc: 52.611% (28936/55000)
+Epoch 8 :
+Train Acc: 60.004% (33002/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.452925
+AUC: 0.538149
+Test Acc: 52.722% (28997/55000)
+Epoch 9 :
+Train Acc: 59.998% (32999/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.453931
+AUC: 0.538341
+Test Acc: 52.738% (29006/55000)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.578874
+AUC: 0.626643
+Train Acc: 59.951% (32973/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.453288
+AUC: 0.538426
+Test Acc: 52.716% (28994/55000)
+Best Acc: 0.527382
+ F1: 0.453931
+AUC: 0.538341
+Saved Attack Model to results/train_layer/tinyimagenet200-vgg16_bn/block_shallow_2_100/meminf_top3.pth

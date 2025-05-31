@@ -1,0 +1,84 @@
+cifar10  resnet18  1  0.01
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.834922
+AUC: 0.900458
+Train Acc: 83.550% (1671/2000) | Loss: 0.460
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.581786
+AUC: 0.534150
+Test Acc: 53.211% (9578/18000)
+Best Acc: 0.536389
+ F1: 0.622484
+AUC: 0.535079
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==resnet18==1==0.01
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.834922
+AUC: 0.900458
+Train Acc: 83.550% (1671/2000) | Loss: 0.460
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.581786
+AUC: 0.534150
+Test Acc: 53.211% (9578/18000)
+Best Acc: 0.536389
+ F1: 0.622484
+AUC: 0.535079
+Saved Attack Model to ./models/adversary/cifar10-resnet18-random/meminf_attack0.pth
+
+cifar10==alexnet==1==0.01
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.559615
+AUC: 0.549015
+Train Acc: 54.200% (1084/2000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.428543
+AUC: 0.524656
+Test Acc: 51.594% (9287/18000)
+Best Acc: 0.532889
+ F1: 0.494529
+AUC: 0.541339
+Saved Attack Model to ./models/adversary/cifar10-alexnet-random/meminf_attack0.pth
+
+cifar10==vgg16_bn==1==0.01
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.843519
+AUC: 0.882804
+Train Acc: 83.100% (1662/2000) | Loss: 0.461
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.552646
+AUC: 0.515790
+Test Acc: 51.494% (9269/18000)
+Best Acc: 0.516833
+ F1: 0.564954
+AUC: 0.516416
+Saved Attack Model to ./models/adversary/cifar10-vgg16_bn-random/meminf_attack0.pth
+
+cifar100==alexnet==1==0.01
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.666667
+AUC: 0.483615
+Train Acc: 50.000% (1000/2000) | Loss: 0.672
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.666667
+AUC: 0.646175
+Test Acc: 50.000% (9000/18000)
+Best Acc: 0.500000
+ F1: 0.000000
+AUC: 0.412294
+Saved Attack Model to ./models/adversary/cifar100-alexnet-random/meminf_attack0.pth
+
+cifar100==vgg16_bn==1==0.01
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.159780
+AUC: 0.878303
+Train Acc: 54.250% (1085/2000) | Loss: 0.723
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.695103
+AUC: 0.671606
+Test Acc: 64.617% (11631/18000)
+Best Acc: 0.655167
+ F1: 0.730564
+AUC: 0.684238
+Saved Attack Model to ./models/adversary/cifar100-vgg16_bn-random/meminf_attack0.pth
+

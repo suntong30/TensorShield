@@ -1,0 +1,1802 @@
+<======================= Epoch 1 =======================>
+target training
+Train Acc: 66.820% (10023/15000) | Loss: 0.992
+target testing
+Test Acc: 76.593% (11489/15000)
+The overfitting rate is -0.097733
+<======================= Epoch 2 =======================>
+target training
+Train Acc: 81.527% (12229/15000) | Loss: 0.559
+target testing
+Test Acc: 79.513% (11927/15000)
+The overfitting rate is 0.020133
+<======================= Epoch 3 =======================>
+target training
+Train Acc: 86.080% (12912/15000) | Loss: 0.416
+target testing
+Test Acc: 81.753% (12263/15000)
+The overfitting rate is 0.043267
+<======================= Epoch 4 =======================>
+target training
+Train Acc: 87.973% (13196/15000) | Loss: 0.344
+target testing
+Test Acc: 81.360% (12204/15000)
+The overfitting rate is 0.066133
+<======================= Epoch 5 =======================>
+target training
+Train Acc: 89.900% (13485/15000) | Loss: 0.294
+target testing
+Test Acc: 82.287% (12343/15000)
+The overfitting rate is 0.076133
+<======================= Epoch 6 =======================>
+target training
+Train Acc: 90.900% (13635/15000) | Loss: 0.263
+target testing
+Test Acc: 82.727% (12409/15000)
+The overfitting rate is 0.081733
+<======================= Epoch 7 =======================>
+target training
+Train Acc: 92.593% (13889/15000) | Loss: 0.211
+target testing
+Test Acc: 81.700% (12255/15000)
+The overfitting rate is 0.108933
+<======================= Epoch 8 =======================>
+target training
+Train Acc: 93.140% (13971/15000) | Loss: 0.198
+target testing
+Test Acc: 82.647% (12397/15000)
+The overfitting rate is 0.104933
+<======================= Epoch 9 =======================>
+target training
+Train Acc: 93.980% (14097/15000) | Loss: 0.176
+target testing
+Test Acc: 81.720% (12258/15000)
+The overfitting rate is 0.1226
+<======================= Epoch 10 =======================>
+target training
+Train Acc: 94.220% (14133/15000) | Loss: 0.176
+target testing
+Test Acc: 80.853% (12128/15000)
+The overfitting rate is 0.133667
+<======================= Epoch 11 =======================>
+target training
+Train Acc: 94.460% (14169/15000) | Loss: 0.164
+target testing
+Test Acc: 81.173% (12176/15000)
+The overfitting rate is 0.132867
+<======================= Epoch 12 =======================>
+target training
+Train Acc: 94.887% (14233/15000) | Loss: 0.154
+target testing
+Test Acc: 82.387% (12358/15000)
+The overfitting rate is 0.125
+<======================= Epoch 13 =======================>
+target training
+Train Acc: 95.593% (14339/15000) | Loss: 0.130
+target testing
+Test Acc: 82.680% (12402/15000)
+The overfitting rate is 0.129133
+<======================= Epoch 14 =======================>
+target training
+Train Acc: 95.493% (14324/15000) | Loss: 0.135
+target testing
+Test Acc: 79.967% (11995/15000)
+The overfitting rate is 0.155267
+<======================= Epoch 15 =======================>
+target training
+Train Acc: 94.787% (14218/15000) | Loss: 0.153
+target testing
+Test Acc: 82.653% (12398/15000)
+The overfitting rate is 0.121333
+<======================= Epoch 16 =======================>
+target training
+Train Acc: 95.833% (14375/15000) | Loss: 0.121
+target testing
+Test Acc: 83.020% (12453/15000)
+The overfitting rate is 0.128133
+<======================= Epoch 17 =======================>
+target training
+Train Acc: 96.013% (14402/15000) | Loss: 0.118
+target testing
+Test Acc: 80.013% (12002/15000)
+The overfitting rate is 0.16
+<======================= Epoch 18 =======================>
+target training
+Train Acc: 95.553% (14333/15000) | Loss: 0.130
+target testing
+Test Acc: 82.147% (12322/15000)
+The overfitting rate is 0.134067
+<======================= Epoch 19 =======================>
+target training
+Train Acc: 96.067% (14410/15000) | Loss: 0.119
+target testing
+Test Acc: 81.307% (12196/15000)
+The overfitting rate is 0.1476
+<======================= Epoch 20 =======================>
+target training
+Train Acc: 96.607% (14491/15000) | Loss: 0.100
+target testing
+Test Acc: 80.367% (12055/15000)
+The overfitting rate is 0.1624
+<======================= Epoch 21 =======================>
+target training
+Train Acc: 96.573% (14486/15000) | Loss: 0.103
+target testing
+Test Acc: 83.027% (12454/15000)
+The overfitting rate is 0.135467
+<======================= Epoch 22 =======================>
+target training
+Train Acc: 96.713% (14507/15000) | Loss: 0.093
+target testing
+Test Acc: 82.807% (12421/15000)
+The overfitting rate is 0.139067
+<======================= Epoch 23 =======================>
+target training
+Train Acc: 96.427% (14464/15000) | Loss: 0.109
+target testing
+Test Acc: 82.953% (12443/15000)
+The overfitting rate is 0.134733
+<======================= Epoch 24 =======================>
+target training
+Train Acc: 97.513% (14627/15000) | Loss: 0.074
+target testing
+Test Acc: 81.993% (12299/15000)
+The overfitting rate is 0.1552
+<======================= Epoch 25 =======================>
+target training
+Train Acc: 96.873% (14531/15000) | Loss: 0.095
+target testing
+Test Acc: 81.013% (12152/15000)
+The overfitting rate is 0.1586
+<======================= Epoch 26 =======================>
+target training
+Train Acc: 96.713% (14507/15000) | Loss: 0.095
+target testing
+Test Acc: 82.507% (12376/15000)
+The overfitting rate is 0.142067
+<======================= Epoch 27 =======================>
+target training
+Train Acc: 96.720% (14508/15000) | Loss: 0.097
+target testing
+Test Acc: 82.147% (12322/15000)
+The overfitting rate is 0.145733
+<======================= Epoch 28 =======================>
+target training
+Train Acc: 96.953% (14543/15000) | Loss: 0.096
+target testing
+Test Acc: 82.300% (12345/15000)
+The overfitting rate is 0.146533
+<======================= Epoch 29 =======================>
+target training
+Train Acc: 96.380% (14457/15000) | Loss: 0.106
+target testing
+Test Acc: 82.953% (12443/15000)
+The overfitting rate is 0.134267
+<======================= Epoch 30 =======================>
+target training
+Train Acc: 97.073% (14561/15000) | Loss: 0.089
+target testing
+Test Acc: 81.347% (12202/15000)
+The overfitting rate is 0.157267
+<======================= Epoch 31 =======================>
+target training
+Train Acc: 97.253% (14588/15000) | Loss: 0.081
+target testing
+Test Acc: 81.680% (12252/15000)
+The overfitting rate is 0.155733
+<======================= Epoch 32 =======================>
+target training
+Train Acc: 96.540% (14481/15000) | Loss: 0.098
+target testing
+Test Acc: 81.607% (12241/15000)
+The overfitting rate is 0.149333
+<======================= Epoch 33 =======================>
+target training
+Train Acc: 97.687% (14653/15000) | Loss: 0.072
+target testing
+Test Acc: 82.420% (12363/15000)
+The overfitting rate is 0.152667
+<======================= Epoch 34 =======================>
+target training
+Train Acc: 96.547% (14482/15000) | Loss: 0.100
+target testing
+Test Acc: 81.853% (12278/15000)
+The overfitting rate is 0.146933
+<======================= Epoch 35 =======================>
+target training
+Train Acc: 97.020% (14553/15000) | Loss: 0.087
+target testing
+Test Acc: 81.033% (12155/15000)
+The overfitting rate is 0.159867
+<======================= Epoch 36 =======================>
+target training
+Train Acc: 96.653% (14498/15000) | Loss: 0.096
+target testing
+Test Acc: 79.227% (11884/15000)
+The overfitting rate is 0.174267
+<======================= Epoch 37 =======================>
+target training
+Train Acc: 96.480% (14472/15000) | Loss: 0.101
+target testing
+Test Acc: 83.013% (12452/15000)
+The overfitting rate is 0.134667
+<======================= Epoch 38 =======================>
+target training
+Train Acc: 96.907% (14536/15000) | Loss: 0.090
+target testing
+Test Acc: 81.967% (12295/15000)
+The overfitting rate is 0.1494
+<======================= Epoch 39 =======================>
+target training
+Train Acc: 97.120% (14568/15000) | Loss: 0.082
+target testing
+Test Acc: 82.473% (12371/15000)
+The overfitting rate is 0.146467
+<======================= Epoch 40 =======================>
+target training
+Train Acc: 97.020% (14553/15000) | Loss: 0.092
+target testing
+Test Acc: 81.367% (12205/15000)
+The overfitting rate is 0.156533
+<======================= Epoch 41 =======================>
+target training
+Train Acc: 96.993% (14549/15000) | Loss: 0.090
+target testing
+Test Acc: 80.940% (12141/15000)
+The overfitting rate is 0.160533
+<======================= Epoch 42 =======================>
+target training
+Train Acc: 97.040% (14556/15000) | Loss: 0.086
+target testing
+Test Acc: 81.420% (12213/15000)
+The overfitting rate is 0.1562
+<======================= Epoch 43 =======================>
+target training
+Train Acc: 97.173% (14576/15000) | Loss: 0.086
+target testing
+Test Acc: 82.253% (12338/15000)
+The overfitting rate is 0.1492
+<======================= Epoch 44 =======================>
+target training
+Train Acc: 97.067% (14560/15000) | Loss: 0.088
+target testing
+Test Acc: 82.340% (12351/15000)
+The overfitting rate is 0.147267
+<======================= Epoch 45 =======================>
+target training
+Train Acc: 97.367% (14605/15000) | Loss: 0.076
+target testing
+Test Acc: 81.780% (12267/15000)
+The overfitting rate is 0.155867
+<======================= Epoch 46 =======================>
+target training
+Train Acc: 97.207% (14581/15000) | Loss: 0.081
+target testing
+Test Acc: 81.333% (12200/15000)
+The overfitting rate is 0.158733
+<======================= Epoch 47 =======================>
+target training
+Train Acc: 97.107% (14566/15000) | Loss: 0.085
+target testing
+Test Acc: 80.287% (12043/15000)
+The overfitting rate is 0.1682
+<======================= Epoch 48 =======================>
+target training
+Train Acc: 96.960% (14544/15000) | Loss: 0.094
+target testing
+Test Acc: 80.960% (12144/15000)
+The overfitting rate is 0.16
+<======================= Epoch 49 =======================>
+target training
+Train Acc: 97.360% (14604/15000) | Loss: 0.077
+target testing
+Test Acc: 81.933% (12290/15000)
+The overfitting rate is 0.154267
+<======================= Epoch 50 =======================>
+target training
+Train Acc: 97.360% (14604/15000) | Loss: 0.081
+target testing
+Test Acc: 80.327% (12049/15000)
+The overfitting rate is 0.170333
+<======================= Epoch 51 =======================>
+target training
+Train Acc: 97.233% (14585/15000) | Loss: 0.082
+target testing
+Test Acc: 80.920% (12138/15000)
+The overfitting rate is 0.163133
+<======================= Epoch 52 =======================>
+target training
+Train Acc: 96.807% (14521/15000) | Loss: 0.091
+target testing
+Test Acc: 82.313% (12347/15000)
+The overfitting rate is 0.144933
+<======================= Epoch 53 =======================>
+target training
+Train Acc: 97.993% (14699/15000) | Loss: 0.062
+target testing
+Test Acc: 81.653% (12248/15000)
+The overfitting rate is 0.1634
+<======================= Epoch 54 =======================>
+target training
+Train Acc: 96.653% (14498/15000) | Loss: 0.100
+target testing
+Test Acc: 81.393% (12209/15000)
+The overfitting rate is 0.1526
+<======================= Epoch 55 =======================>
+target training
+Train Acc: 96.980% (14547/15000) | Loss: 0.091
+target testing
+Test Acc: 82.007% (12301/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 56 =======================>
+target training
+Train Acc: 96.993% (14549/15000) | Loss: 0.089
+target testing
+Test Acc: 81.487% (12223/15000)
+The overfitting rate is 0.155067
+<======================= Epoch 57 =======================>
+target training
+Train Acc: 96.773% (14516/15000) | Loss: 0.098
+target testing
+Test Acc: 81.373% (12206/15000)
+The overfitting rate is 0.154
+<======================= Epoch 58 =======================>
+target training
+Train Acc: 96.747% (14512/15000) | Loss: 0.100
+target testing
+Test Acc: 80.833% (12125/15000)
+The overfitting rate is 0.159133
+<======================= Epoch 59 =======================>
+target training
+Train Acc: 96.460% (14469/15000) | Loss: 0.102
+target testing
+Test Acc: 79.133% (11870/15000)
+The overfitting rate is 0.173267
+<======================= Epoch 60 =======================>
+target training
+Train Acc: 97.000% (14550/15000) | Loss: 0.085
+target testing
+Test Acc: 81.607% (12241/15000)
+The overfitting rate is 0.153933
+<======================= Epoch 61 =======================>
+target training
+Train Acc: 96.960% (14544/15000) | Loss: 0.089
+target testing
+Test Acc: 81.027% (12154/15000)
+The overfitting rate is 0.159333
+<======================= Epoch 62 =======================>
+target training
+Train Acc: 97.193% (14579/15000) | Loss: 0.082
+target testing
+Test Acc: 80.680% (12102/15000)
+The overfitting rate is 0.165133
+<======================= Epoch 63 =======================>
+target training
+Train Acc: 96.927% (14539/15000) | Loss: 0.090
+target testing
+Test Acc: 81.840% (12276/15000)
+The overfitting rate is 0.150867
+<======================= Epoch 64 =======================>
+target training
+Train Acc: 97.400% (14610/15000) | Loss: 0.077
+target testing
+Test Acc: 81.820% (12273/15000)
+The overfitting rate is 0.1558
+<======================= Epoch 65 =======================>
+target training
+Train Acc: 97.533% (14630/15000) | Loss: 0.075
+target testing
+Test Acc: 79.647% (11947/15000)
+The overfitting rate is 0.178867
+<======================= Epoch 66 =======================>
+target training
+Train Acc: 97.227% (14584/15000) | Loss: 0.083
+target testing
+Test Acc: 82.280% (12342/15000)
+The overfitting rate is 0.149467
+<======================= Epoch 67 =======================>
+target training
+Train Acc: 97.413% (14612/15000) | Loss: 0.081
+target testing
+Test Acc: 81.367% (12205/15000)
+The overfitting rate is 0.160467
+<======================= Epoch 68 =======================>
+target training
+Train Acc: 96.873% (14531/15000) | Loss: 0.092
+target testing
+Test Acc: 81.060% (12159/15000)
+The overfitting rate is 0.158133
+<======================= Epoch 69 =======================>
+target training
+Train Acc: 97.380% (14607/15000) | Loss: 0.081
+target testing
+Test Acc: 81.293% (12194/15000)
+The overfitting rate is 0.160867
+<======================= Epoch 70 =======================>
+target training
+Train Acc: 97.267% (14590/15000) | Loss: 0.081
+target testing
+Test Acc: 81.513% (12227/15000)
+The overfitting rate is 0.157533
+<======================= Epoch 71 =======================>
+target training
+Train Acc: 97.020% (14553/15000) | Loss: 0.089
+target testing
+Test Acc: 80.920% (12138/15000)
+The overfitting rate is 0.161
+<======================= Epoch 72 =======================>
+target training
+Train Acc: 97.127% (14569/15000) | Loss: 0.087
+target testing
+Test Acc: 81.027% (12154/15000)
+The overfitting rate is 0.161
+<======================= Epoch 73 =======================>
+target training
+Train Acc: 97.447% (14617/15000) | Loss: 0.072
+target testing
+Test Acc: 81.087% (12163/15000)
+The overfitting rate is 0.1636
+<======================= Epoch 74 =======================>
+target training
+Train Acc: 96.747% (14512/15000) | Loss: 0.092
+target testing
+Test Acc: 79.320% (11898/15000)
+The overfitting rate is 0.174267
+<======================= Epoch 75 =======================>
+target training
+Train Acc: 96.873% (14531/15000) | Loss: 0.093
+target testing
+Test Acc: 81.207% (12181/15000)
+The overfitting rate is 0.156667
+<======================= Epoch 76 =======================>
+target training
+Train Acc: 96.747% (14512/15000) | Loss: 0.096
+target testing
+Test Acc: 80.633% (12095/15000)
+The overfitting rate is 0.161133
+<======================= Epoch 77 =======================>
+target training
+Train Acc: 97.307% (14596/15000) | Loss: 0.083
+target testing
+Test Acc: 81.253% (12188/15000)
+The overfitting rate is 0.160533
+<======================= Epoch 78 =======================>
+target training
+Train Acc: 97.453% (14618/15000) | Loss: 0.078
+target testing
+Test Acc: 81.053% (12158/15000)
+The overfitting rate is 0.164
+<======================= Epoch 79 =======================>
+target training
+Train Acc: 97.553% (14633/15000) | Loss: 0.078
+target testing
+Test Acc: 80.913% (12137/15000)
+The overfitting rate is 0.1664
+<======================= Epoch 80 =======================>
+target training
+Train Acc: 96.993% (14549/15000) | Loss: 0.087
+target testing
+Test Acc: 80.780% (12117/15000)
+The overfitting rate is 0.162133
+<======================= Epoch 81 =======================>
+target training
+Train Acc: 96.773% (14516/15000) | Loss: 0.096
+target testing
+Test Acc: 80.067% (12010/15000)
+The overfitting rate is 0.167067
+<======================= Epoch 82 =======================>
+target training
+Train Acc: 97.207% (14581/15000) | Loss: 0.085
+target testing
+Test Acc: 80.807% (12121/15000)
+The overfitting rate is 0.164
+<======================= Epoch 83 =======================>
+target training
+Train Acc: 97.193% (14579/15000) | Loss: 0.084
+target testing
+Test Acc: 80.640% (12096/15000)
+The overfitting rate is 0.165533
+<======================= Epoch 84 =======================>
+target training
+Train Acc: 97.047% (14557/15000) | Loss: 0.092
+target testing
+Test Acc: 80.667% (12100/15000)
+The overfitting rate is 0.1638
+<======================= Epoch 85 =======================>
+target training
+Train Acc: 96.827% (14524/15000) | Loss: 0.097
+target testing
+Test Acc: 80.893% (12134/15000)
+The overfitting rate is 0.159333
+<======================= Epoch 86 =======================>
+target training
+Train Acc: 96.740% (14511/15000) | Loss: 0.094
+target testing
+Test Acc: 80.033% (12005/15000)
+The overfitting rate is 0.167067
+<======================= Epoch 87 =======================>
+target training
+Train Acc: 97.053% (14558/15000) | Loss: 0.090
+target testing
+Test Acc: 80.920% (12138/15000)
+The overfitting rate is 0.161333
+<======================= Epoch 88 =======================>
+target training
+Train Acc: 97.153% (14573/15000) | Loss: 0.082
+target testing
+Test Acc: 81.273% (12191/15000)
+The overfitting rate is 0.1588
+<======================= Epoch 89 =======================>
+target training
+Train Acc: 97.673% (14651/15000) | Loss: 0.068
+target testing
+Test Acc: 81.427% (12214/15000)
+The overfitting rate is 0.162467
+<======================= Epoch 90 =======================>
+target training
+Train Acc: 97.060% (14559/15000) | Loss: 0.087
+target testing
+Test Acc: 80.807% (12121/15000)
+The overfitting rate is 0.162533
+<======================= Epoch 91 =======================>
+target training
+Train Acc: 96.987% (14548/15000) | Loss: 0.092
+target testing
+Test Acc: 80.473% (12071/15000)
+The overfitting rate is 0.165133
+<======================= Epoch 92 =======================>
+target training
+Train Acc: 97.280% (14592/15000) | Loss: 0.078
+target testing
+Test Acc: 81.520% (12228/15000)
+The overfitting rate is 0.1576
+<======================= Epoch 93 =======================>
+target training
+Train Acc: 97.853% (14678/15000) | Loss: 0.064
+target testing
+Test Acc: 81.287% (12193/15000)
+The overfitting rate is 0.165667
+<======================= Epoch 94 =======================>
+target training
+Train Acc: 97.120% (14568/15000) | Loss: 0.086
+target testing
+Test Acc: 80.673% (12101/15000)
+The overfitting rate is 0.164467
+<======================= Epoch 95 =======================>
+target training
+Train Acc: 97.293% (14594/15000) | Loss: 0.078
+target testing
+Test Acc: 80.680% (12102/15000)
+The overfitting rate is 0.166133
+<======================= Epoch 96 =======================>
+target training
+Train Acc: 97.433% (14615/15000) | Loss: 0.079
+target testing
+Test Acc: 78.333% (11750/15000)
+The overfitting rate is 0.191
+<======================= Epoch 97 =======================>
+target training
+Train Acc: 97.100% (14565/15000) | Loss: 0.087
+target testing
+Test Acc: 80.653% (12098/15000)
+The overfitting rate is 0.164467
+<======================= Epoch 98 =======================>
+target training
+Train Acc: 97.380% (14607/15000) | Loss: 0.083
+target testing
+Test Acc: 80.720% (12108/15000)
+The overfitting rate is 0.1666
+<======================= Epoch 99 =======================>
+target training
+Train Acc: 97.193% (14579/15000) | Loss: 0.083
+target testing
+Test Acc: 79.933% (11990/15000)
+The overfitting rate is 0.1726
+<======================= Epoch 100 =======================>
+target training
+Train Acc: 96.827% (14524/15000) | Loss: 0.093
+target testing
+Test Acc: 81.073% (12161/15000)
+The overfitting rate is 0.157533
+<======================= Epoch 101 =======================>
+target training
+Train Acc: 96.920% (14538/15000) | Loss: 0.089
+target testing
+Test Acc: 81.193% (12179/15000)
+The overfitting rate is 0.157267
+<======================= Epoch 102 =======================>
+target training
+Train Acc: 98.153% (14723/15000) | Loss: 0.056
+target testing
+Test Acc: 80.880% (12132/15000)
+The overfitting rate is 0.172733
+<======================= Epoch 103 =======================>
+target training
+Train Acc: 98.140% (14721/15000) | Loss: 0.059
+target testing
+Test Acc: 81.513% (12227/15000)
+The overfitting rate is 0.166267
+<======================= Epoch 104 =======================>
+target training
+Train Acc: 96.507% (14476/15000) | Loss: 0.102
+target testing
+Test Acc: 80.960% (12144/15000)
+The overfitting rate is 0.155467
+<======================= Epoch 105 =======================>
+target training
+Train Acc: 97.107% (14566/15000) | Loss: 0.085
+target testing
+Test Acc: 80.433% (12065/15000)
+The overfitting rate is 0.166733
+<======================= Epoch 106 =======================>
+target training
+Train Acc: 97.347% (14602/15000) | Loss: 0.079
+target testing
+Test Acc: 79.827% (11974/15000)
+The overfitting rate is 0.1752
+<======================= Epoch 107 =======================>
+target training
+Train Acc: 96.620% (14493/15000) | Loss: 0.097
+target testing
+Test Acc: 79.207% (11881/15000)
+The overfitting rate is 0.174133
+<======================= Epoch 108 =======================>
+target training
+Train Acc: 96.860% (14529/15000) | Loss: 0.093
+target testing
+Test Acc: 80.413% (12062/15000)
+The overfitting rate is 0.164467
+<======================= Epoch 109 =======================>
+target training
+Train Acc: 97.633% (14645/15000) | Loss: 0.072
+target testing
+Test Acc: 80.353% (12053/15000)
+The overfitting rate is 0.1728
+<======================= Epoch 110 =======================>
+target training
+Train Acc: 97.160% (14574/15000) | Loss: 0.084
+target testing
+Test Acc: 80.520% (12078/15000)
+The overfitting rate is 0.1664
+<======================= Epoch 111 =======================>
+target training
+Train Acc: 96.780% (14517/15000) | Loss: 0.098
+target testing
+Test Acc: 80.293% (12044/15000)
+The overfitting rate is 0.164867
+<======================= Epoch 112 =======================>
+target training
+Train Acc: 97.047% (14557/15000) | Loss: 0.085
+target testing
+Test Acc: 78.380% (11757/15000)
+The overfitting rate is 0.186667
+<======================= Epoch 113 =======================>
+target training
+Train Acc: 97.020% (14553/15000) | Loss: 0.088
+target testing
+Test Acc: 80.360% (12054/15000)
+The overfitting rate is 0.1666
+<======================= Epoch 114 =======================>
+target training
+Train Acc: 96.987% (14548/15000) | Loss: 0.089
+target testing
+Test Acc: 82.040% (12306/15000)
+The overfitting rate is 0.149467
+<======================= Epoch 115 =======================>
+target training
+Train Acc: 97.780% (14667/15000) | Loss: 0.072
+target testing
+Test Acc: 80.060% (12009/15000)
+The overfitting rate is 0.1772
+<======================= Epoch 116 =======================>
+target training
+Train Acc: 97.040% (14556/15000) | Loss: 0.085
+target testing
+Test Acc: 80.400% (12060/15000)
+The overfitting rate is 0.1664
+<======================= Epoch 117 =======================>
+target training
+Train Acc: 97.093% (14564/15000) | Loss: 0.086
+target testing
+Test Acc: 79.980% (11997/15000)
+The overfitting rate is 0.171133
+<======================= Epoch 118 =======================>
+target training
+Train Acc: 96.913% (14537/15000) | Loss: 0.094
+target testing
+Test Acc: 80.587% (12088/15000)
+The overfitting rate is 0.163267
+<======================= Epoch 119 =======================>
+target training
+Train Acc: 96.687% (14503/15000) | Loss: 0.098
+target testing
+Test Acc: 79.953% (11993/15000)
+The overfitting rate is 0.167333
+<======================= Epoch 120 =======================>
+target training
+Train Acc: 96.973% (14546/15000) | Loss: 0.090
+target testing
+Test Acc: 79.927% (11989/15000)
+The overfitting rate is 0.170467
+<======================= Epoch 121 =======================>
+target training
+Train Acc: 97.287% (14593/15000) | Loss: 0.079
+target testing
+Test Acc: 80.860% (12129/15000)
+The overfitting rate is 0.164267
+<======================= Epoch 122 =======================>
+target training
+Train Acc: 96.927% (14539/15000) | Loss: 0.090
+target testing
+Test Acc: 80.507% (12076/15000)
+The overfitting rate is 0.1642
+<======================= Epoch 123 =======================>
+target training
+Train Acc: 97.420% (14613/15000) | Loss: 0.081
+target testing
+Test Acc: 80.340% (12051/15000)
+The overfitting rate is 0.1708
+<======================= Epoch 124 =======================>
+target training
+Train Acc: 96.967% (14545/15000) | Loss: 0.090
+target testing
+Test Acc: 80.113% (12017/15000)
+The overfitting rate is 0.168533
+<======================= Epoch 125 =======================>
+target training
+Train Acc: 97.500% (14625/15000) | Loss: 0.075
+target testing
+Test Acc: 80.413% (12062/15000)
+The overfitting rate is 0.170867
+<======================= Epoch 126 =======================>
+target training
+Train Acc: 97.560% (14634/15000) | Loss: 0.077
+target testing
+Test Acc: 79.313% (11897/15000)
+The overfitting rate is 0.182467
+<======================= Epoch 127 =======================>
+target training
+Train Acc: 96.960% (14544/15000) | Loss: 0.093
+target testing
+Test Acc: 79.600% (11940/15000)
+The overfitting rate is 0.1736
+<======================= Epoch 128 =======================>
+target training
+Train Acc: 97.500% (14625/15000) | Loss: 0.076
+target testing
+Test Acc: 79.807% (11971/15000)
+The overfitting rate is 0.176933
+<======================= Epoch 129 =======================>
+target training
+Train Acc: 97.080% (14562/15000) | Loss: 0.086
+target testing
+Test Acc: 79.607% (11941/15000)
+The overfitting rate is 0.174733
+<======================= Epoch 130 =======================>
+target training
+Train Acc: 97.033% (14555/15000) | Loss: 0.089
+target testing
+Test Acc: 80.160% (12024/15000)
+The overfitting rate is 0.168733
+<======================= Epoch 131 =======================>
+target training
+Train Acc: 96.993% (14549/15000) | Loss: 0.091
+target testing
+Test Acc: 80.133% (12020/15000)
+The overfitting rate is 0.1686
+<======================= Epoch 132 =======================>
+target training
+Train Acc: 97.620% (14643/15000) | Loss: 0.073
+target testing
+Test Acc: 81.327% (12199/15000)
+The overfitting rate is 0.162933
+<======================= Epoch 133 =======================>
+target training
+Train Acc: 97.780% (14667/15000) | Loss: 0.066
+target testing
+Test Acc: 80.760% (12114/15000)
+The overfitting rate is 0.1702
+<======================= Epoch 134 =======================>
+target training
+Train Acc: 97.507% (14626/15000) | Loss: 0.078
+target testing
+Test Acc: 79.860% (11979/15000)
+The overfitting rate is 0.176467
+<======================= Epoch 135 =======================>
+target training
+Train Acc: 97.093% (14564/15000) | Loss: 0.088
+target testing
+Test Acc: 80.527% (12079/15000)
+The overfitting rate is 0.165667
+<======================= Epoch 136 =======================>
+target training
+Train Acc: 97.240% (14586/15000) | Loss: 0.084
+target testing
+Test Acc: 80.200% (12030/15000)
+The overfitting rate is 0.1704
+<======================= Epoch 137 =======================>
+target training
+Train Acc: 97.527% (14629/15000) | Loss: 0.076
+target testing
+Test Acc: 80.300% (12045/15000)
+The overfitting rate is 0.172267
+<======================= Epoch 138 =======================>
+target training
+Train Acc: 97.907% (14686/15000) | Loss: 0.062
+target testing
+Test Acc: 81.187% (12178/15000)
+The overfitting rate is 0.1672
+<======================= Epoch 139 =======================>
+target training
+Train Acc: 97.800% (14670/15000) | Loss: 0.064
+target testing
+Test Acc: 79.220% (11883/15000)
+The overfitting rate is 0.1858
+<======================= Epoch 140 =======================>
+target training
+Train Acc: 96.753% (14513/15000) | Loss: 0.097
+target testing
+Test Acc: 80.387% (12058/15000)
+The overfitting rate is 0.163667
+<======================= Epoch 141 =======================>
+target training
+Train Acc: 97.060% (14559/15000) | Loss: 0.091
+target testing
+Test Acc: 79.107% (11866/15000)
+The overfitting rate is 0.179533
+<======================= Epoch 142 =======================>
+target training
+Train Acc: 96.813% (14522/15000) | Loss: 0.094
+target testing
+Test Acc: 80.473% (12071/15000)
+The overfitting rate is 0.1634
+<======================= Epoch 143 =======================>
+target training
+Train Acc: 97.440% (14616/15000) | Loss: 0.078
+target testing
+Test Acc: 79.793% (11969/15000)
+The overfitting rate is 0.176467
+<======================= Epoch 144 =======================>
+target training
+Train Acc: 97.740% (14661/15000) | Loss: 0.072
+target testing
+Test Acc: 80.640% (12096/15000)
+The overfitting rate is 0.171
+<======================= Epoch 145 =======================>
+target training
+Train Acc: 97.240% (14586/15000) | Loss: 0.084
+target testing
+Test Acc: 81.007% (12151/15000)
+The overfitting rate is 0.162333
+<======================= Epoch 146 =======================>
+target training
+Train Acc: 97.633% (14645/15000) | Loss: 0.073
+target testing
+Test Acc: 80.820% (12123/15000)
+The overfitting rate is 0.168133
+<======================= Epoch 147 =======================>
+target training
+Train Acc: 97.053% (14558/15000) | Loss: 0.089
+target testing
+Test Acc: 79.453% (11918/15000)
+The overfitting rate is 0.176
+<======================= Epoch 148 =======================>
+target training
+Train Acc: 97.253% (14588/15000) | Loss: 0.087
+target testing
+Test Acc: 79.133% (11870/15000)
+The overfitting rate is 0.1812
+<======================= Epoch 149 =======================>
+target training
+Train Acc: 97.620% (14643/15000) | Loss: 0.075
+target testing
+Test Acc: 79.833% (11975/15000)
+The overfitting rate is 0.177867
+<======================= Epoch 150 =======================>
+target training
+Train Acc: 98.320% (14748/15000) | Loss: 0.052
+target testing
+Test Acc: 80.773% (12116/15000)
+The overfitting rate is 0.175467
+<======================= Epoch 151 =======================>
+target training
+Train Acc: 99.347% (14902/15000) | Loss: 0.023
+target testing
+Test Acc: 83.693% (12554/15000)
+The overfitting rate is 0.156533
+<======================= Epoch 152 =======================>
+target training
+Train Acc: 99.880% (14982/15000) | Loss: 0.008
+target testing
+Test Acc: 83.953% (12593/15000)
+The overfitting rate is 0.159267
+<======================= Epoch 153 =======================>
+target training
+Train Acc: 99.947% (14992/15000) | Loss: 0.006
+target testing
+Test Acc: 84.047% (12607/15000)
+The overfitting rate is 0.159
+<======================= Epoch 154 =======================>
+target training
+Train Acc: 99.973% (14996/15000) | Loss: 0.005
+target testing
+Test Acc: 84.407% (12661/15000)
+The overfitting rate is 0.155667
+<======================= Epoch 155 =======================>
+target training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+target testing
+Test Acc: 84.587% (12688/15000)
+The overfitting rate is 0.154
+<======================= Epoch 156 =======================>
+target training
+Train Acc: 99.987% (14998/15000) | Loss: 0.003
+target testing
+Test Acc: 84.313% (12647/15000)
+The overfitting rate is 0.156733
+<======================= Epoch 157 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.003
+target testing
+Test Acc: 84.493% (12674/15000)
+The overfitting rate is 0.155
+<======================= Epoch 158 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.003
+target testing
+Test Acc: 84.527% (12679/15000)
+The overfitting rate is 0.154733
+<======================= Epoch 159 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.003
+target testing
+Test Acc: 84.447% (12667/15000)
+The overfitting rate is 0.155533
+<======================= Epoch 160 =======================>
+target training
+Train Acc: 99.987% (14998/15000) | Loss: 0.003
+target testing
+Test Acc: 84.527% (12679/15000)
+The overfitting rate is 0.1546
+<======================= Epoch 161 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.003
+target testing
+Test Acc: 84.467% (12670/15000)
+The overfitting rate is 0.155267
+<======================= Epoch 162 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.473% (12671/15000)
+The overfitting rate is 0.155267
+<======================= Epoch 163 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.653% (12698/15000)
+The overfitting rate is 0.153467
+<======================= Epoch 164 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.680% (12702/15000)
+The overfitting rate is 0.153133
+<======================= Epoch 165 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.473% (12671/15000)
+The overfitting rate is 0.155267
+<======================= Epoch 166 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.647% (12697/15000)
+The overfitting rate is 0.153533
+<======================= Epoch 167 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.380% (12657/15000)
+The overfitting rate is 0.156133
+<======================= Epoch 168 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.660% (12699/15000)
+The overfitting rate is 0.153333
+<======================= Epoch 169 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.747% (12712/15000)
+The overfitting rate is 0.152533
+<======================= Epoch 170 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.687% (12703/15000)
+The overfitting rate is 0.153067
+<======================= Epoch 171 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.660% (12699/15000)
+The overfitting rate is 0.1534
+<======================= Epoch 172 =======================>
+target training
+Train Acc: 99.987% (14998/15000) | Loss: 0.002
+target testing
+Test Acc: 84.653% (12698/15000)
+The overfitting rate is 0.153333
+<======================= Epoch 173 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.647% (12697/15000)
+The overfitting rate is 0.153533
+<======================= Epoch 174 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.667% (12700/15000)
+The overfitting rate is 0.153333
+<======================= Epoch 175 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.587% (12688/15000)
+The overfitting rate is 0.154067
+<======================= Epoch 176 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.002
+target testing
+Test Acc: 84.667% (12700/15000)
+The overfitting rate is 0.153333
+<======================= Epoch 177 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.747% (12712/15000)
+The overfitting rate is 0.152467
+<======================= Epoch 178 =======================>
+target training
+Train Acc: 99.980% (14997/15000) | Loss: 0.002
+target testing
+Test Acc: 84.773% (12716/15000)
+The overfitting rate is 0.152067
+<======================= Epoch 179 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.713% (12707/15000)
+The overfitting rate is 0.1528
+<======================= Epoch 180 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.002
+target testing
+Test Acc: 84.727% (12709/15000)
+The overfitting rate is 0.152667
+<======================= Epoch 181 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.767% (12715/15000)
+The overfitting rate is 0.152333
+<======================= Epoch 182 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.720% (12708/15000)
+The overfitting rate is 0.1528
+<======================= Epoch 183 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.720% (12708/15000)
+The overfitting rate is 0.1528
+<======================= Epoch 184 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.753% (12713/15000)
+The overfitting rate is 0.152467
+<======================= Epoch 185 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.960% (12744/15000)
+The overfitting rate is 0.1504
+<======================= Epoch 186 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.793% (12719/15000)
+The overfitting rate is 0.152067
+<======================= Epoch 187 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.813% (12722/15000)
+The overfitting rate is 0.151867
+<======================= Epoch 188 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.960% (12744/15000)
+The overfitting rate is 0.1504
+<======================= Epoch 189 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 190 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 84.953% (12743/15000)
+The overfitting rate is 0.1504
+<======================= Epoch 191 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.893% (12734/15000)
+The overfitting rate is 0.151067
+<======================= Epoch 192 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.993% (12749/15000)
+The overfitting rate is 0.150067
+<======================= Epoch 193 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.067% (12760/15000)
+The overfitting rate is 0.149333
+<======================= Epoch 194 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.907% (12736/15000)
+The overfitting rate is 0.150933
+<======================= Epoch 195 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.833% (12725/15000)
+The overfitting rate is 0.151667
+<======================= Epoch 196 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.947% (12742/15000)
+The overfitting rate is 0.150533
+<======================= Epoch 197 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 84.873% (12731/15000)
+The overfitting rate is 0.1512
+<======================= Epoch 198 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.720% (12708/15000)
+The overfitting rate is 0.1528
+<======================= Epoch 199 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.847% (12727/15000)
+The overfitting rate is 0.151533
+<======================= Epoch 200 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.860% (12729/15000)
+The overfitting rate is 0.1514
+<======================= Epoch 201 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.007% (12751/15000)
+The overfitting rate is 0.149933
+<======================= Epoch 202 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.847% (12727/15000)
+The overfitting rate is 0.151533
+<======================= Epoch 203 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.880% (12732/15000)
+The overfitting rate is 0.1512
+<======================= Epoch 204 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.973% (12746/15000)
+The overfitting rate is 0.150267
+<======================= Epoch 205 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.853% (12728/15000)
+The overfitting rate is 0.151467
+<======================= Epoch 206 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.980% (12747/15000)
+The overfitting rate is 0.1502
+<======================= Epoch 207 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 85.080% (12762/15000)
+The overfitting rate is 0.149133
+<======================= Epoch 208 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.793% (12719/15000)
+The overfitting rate is 0.152067
+<======================= Epoch 209 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.953% (12743/15000)
+The overfitting rate is 0.150467
+<======================= Epoch 210 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 84.987% (12748/15000)
+The overfitting rate is 0.150067
+<======================= Epoch 211 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 84.887% (12733/15000)
+The overfitting rate is 0.151067
+<======================= Epoch 212 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.040% (12756/15000)
+The overfitting rate is 0.1496
+<======================= Epoch 213 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.980% (12747/15000)
+The overfitting rate is 0.1502
+<======================= Epoch 214 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.100% (12765/15000)
+The overfitting rate is 0.149
+<======================= Epoch 215 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.060% (12759/15000)
+The overfitting rate is 0.1494
+<======================= Epoch 216 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.933% (12740/15000)
+The overfitting rate is 0.150667
+<======================= Epoch 217 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.007% (12751/15000)
+The overfitting rate is 0.149933
+<======================= Epoch 218 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.947% (12742/15000)
+The overfitting rate is 0.150533
+<======================= Epoch 219 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.853% (12728/15000)
+The overfitting rate is 0.151467
+<======================= Epoch 220 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.907% (12736/15000)
+The overfitting rate is 0.150933
+<======================= Epoch 221 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.053% (12758/15000)
+The overfitting rate is 0.149467
+<======================= Epoch 222 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.847% (12727/15000)
+The overfitting rate is 0.151533
+<======================= Epoch 223 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.007% (12751/15000)
+The overfitting rate is 0.149933
+<======================= Epoch 224 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.840% (12726/15000)
+The overfitting rate is 0.1516
+<======================= Epoch 225 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.953% (12743/15000)
+The overfitting rate is 0.150467
+<======================= Epoch 226 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.033% (12755/15000)
+The overfitting rate is 0.149667
+<======================= Epoch 227 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.1498
+<======================= Epoch 228 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.013% (12752/15000)
+The overfitting rate is 0.149867
+<======================= Epoch 229 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.140% (12771/15000)
+The overfitting rate is 0.1486
+<======================= Epoch 230 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.047% (12757/15000)
+The overfitting rate is 0.149533
+<======================= Epoch 231 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.913% (12737/15000)
+The overfitting rate is 0.150867
+<======================= Epoch 232 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.847% (12727/15000)
+The overfitting rate is 0.151533
+<======================= Epoch 233 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.947% (12742/15000)
+The overfitting rate is 0.150533
+<======================= Epoch 234 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.027% (12754/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 235 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.033% (12755/15000)
+The overfitting rate is 0.149667
+<======================= Epoch 236 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.133% (12770/15000)
+The overfitting rate is 0.148667
+<======================= Epoch 237 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.027% (12754/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 238 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.060% (12759/15000)
+The overfitting rate is 0.1494
+<======================= Epoch 239 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.080% (12762/15000)
+The overfitting rate is 0.1492
+<======================= Epoch 240 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.033% (12755/15000)
+The overfitting rate is 0.149667
+<======================= Epoch 241 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.100% (12765/15000)
+The overfitting rate is 0.149
+<======================= Epoch 242 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 84.987% (12748/15000)
+The overfitting rate is 0.150067
+<======================= Epoch 243 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.1498
+<======================= Epoch 244 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.1498
+<======================= Epoch 245 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.107% (12766/15000)
+The overfitting rate is 0.148933
+<======================= Epoch 246 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.100% (12765/15000)
+The overfitting rate is 0.149
+<======================= Epoch 247 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.827% (12724/15000)
+The overfitting rate is 0.151733
+<======================= Epoch 248 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.987% (12748/15000)
+The overfitting rate is 0.150133
+<======================= Epoch 249 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.933% (12740/15000)
+The overfitting rate is 0.150667
+<======================= Epoch 250 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.920% (12738/15000)
+The overfitting rate is 0.1508
+<======================= Epoch 251 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.940% (12741/15000)
+The overfitting rate is 0.1506
+<======================= Epoch 252 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.980% (12747/15000)
+The overfitting rate is 0.1502
+<======================= Epoch 253 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.033% (12755/15000)
+The overfitting rate is 0.149667
+<======================= Epoch 254 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.007% (12751/15000)
+The overfitting rate is 0.149933
+<======================= Epoch 255 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.987% (12748/15000)
+The overfitting rate is 0.150133
+<======================= Epoch 256 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.027% (12754/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 257 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.927% (12739/15000)
+The overfitting rate is 0.150733
+<======================= Epoch 258 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.927% (12739/15000)
+The overfitting rate is 0.150733
+<======================= Epoch 259 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.980% (12747/15000)
+The overfitting rate is 0.1502
+<======================= Epoch 260 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.127% (12769/15000)
+The overfitting rate is 0.148733
+<======================= Epoch 261 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.900% (12735/15000)
+The overfitting rate is 0.151
+<======================= Epoch 262 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.940% (12741/15000)
+The overfitting rate is 0.1506
+<======================= Epoch 263 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.940% (12741/15000)
+The overfitting rate is 0.1506
+<======================= Epoch 264 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 85.033% (12755/15000)
+The overfitting rate is 0.1496
+<======================= Epoch 265 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.747% (12712/15000)
+The overfitting rate is 0.152533
+<======================= Epoch 266 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.920% (12738/15000)
+The overfitting rate is 0.1508
+<======================= Epoch 267 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.000% (12750/15000)
+The overfitting rate is 0.15
+<======================= Epoch 268 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.1498
+<======================= Epoch 269 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.040% (12756/15000)
+The overfitting rate is 0.1496
+<======================= Epoch 270 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.060% (12759/15000)
+The overfitting rate is 0.1494
+<======================= Epoch 271 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.027% (12754/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 272 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.907% (12736/15000)
+The overfitting rate is 0.150933
+<======================= Epoch 273 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.940% (12741/15000)
+The overfitting rate is 0.1506
+<======================= Epoch 274 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 85.093% (12764/15000)
+The overfitting rate is 0.149
+<======================= Epoch 275 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.800% (12720/15000)
+The overfitting rate is 0.152
+<======================= Epoch 276 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.067% (12760/15000)
+The overfitting rate is 0.149333
+<======================= Epoch 277 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.933% (12740/15000)
+The overfitting rate is 0.150667
+<======================= Epoch 278 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.893% (12734/15000)
+The overfitting rate is 0.151067
+<======================= Epoch 279 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.987% (12748/15000)
+The overfitting rate is 0.150133
+<======================= Epoch 280 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.013% (12752/15000)
+The overfitting rate is 0.149867
+<======================= Epoch 281 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.907% (12736/15000)
+The overfitting rate is 0.150933
+<======================= Epoch 282 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.860% (12729/15000)
+The overfitting rate is 0.1514
+<======================= Epoch 283 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.073% (12761/15000)
+The overfitting rate is 0.149267
+<======================= Epoch 284 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.027% (12754/15000)
+The overfitting rate is 0.149733
+<======================= Epoch 285 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.060% (12759/15000)
+The overfitting rate is 0.1494
+<======================= Epoch 286 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.193% (12779/15000)
+The overfitting rate is 0.148067
+<======================= Epoch 287 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.080% (12762/15000)
+The overfitting rate is 0.1492
+<======================= Epoch 288 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.967% (12745/15000)
+The overfitting rate is 0.150333
+<======================= Epoch 289 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.007% (12751/15000)
+The overfitting rate is 0.149933
+<======================= Epoch 290 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.040% (12756/15000)
+The overfitting rate is 0.1496
+<======================= Epoch 291 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.000% (12750/15000)
+The overfitting rate is 0.15
+<======================= Epoch 292 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.1498
+<======================= Epoch 293 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.987% (12748/15000)
+The overfitting rate is 0.150133
+<======================= Epoch 294 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.180% (12777/15000)
+The overfitting rate is 0.1482
+<======================= Epoch 295 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 84.947% (12742/15000)
+The overfitting rate is 0.150533
+<======================= Epoch 296 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 85.193% (12779/15000)
+The overfitting rate is 0.148
+<======================= Epoch 297 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.020% (12753/15000)
+The overfitting rate is 0.1498
+<======================= Epoch 298 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.093% (12764/15000)
+The overfitting rate is 0.149067
+<======================= Epoch 299 =======================>
+target training
+Train Acc: 100.000% (15000/15000) | Loss: 0.001
+target testing
+Test Acc: 85.000% (12750/15000)
+The overfitting rate is 0.15
+<======================= Epoch 300 =======================>
+target training
+Train Acc: 99.993% (14999/15000) | Loss: 0.001
+target testing
+Test Acc: 85.053% (12758/15000)
+The overfitting rate is 0.1494
+Saved target model to victim_mia/cifar10-mobilenetv2/target.pth!!!
+Finished training!!!

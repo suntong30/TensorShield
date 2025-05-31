@@ -1,0 +1,66 @@
+Finished Saving Train Dataset to results/train_layer/stl10-mobilenetv2/block_shallow_0_100/meminf_attack_top3_train.p
+Finished Saving Test Dataset to results/train_layer/stl10-mobilenetv2/block_shallow_0_100/meminf_attack_top3_test.p
+Epoch 1 :
+Train Acc: 53.815% (3498/6500) | Loss: 0.685
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.686330
+AUC: 0.715472
+Test Acc: 54.354% (3533/6500)
+Epoch 2 :
+Train Acc: 56.815% (3693/6500) | Loss: 0.682
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.695242
+AUC: 0.723641
+Test Acc: 56.246% (3656/6500)
+Epoch 3 :
+Train Acc: 58.692% (3815/6500) | Loss: 0.679
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.700746
+AUC: 0.726026
+Test Acc: 57.400% (3731/6500)
+Epoch 4 :
+Train Acc: 59.200% (3848/6500) | Loss: 0.675
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.702972
+AUC: 0.727407
+Test Acc: 57.877% (3762/6500)
+Epoch 5 :
+Train Acc: 60.200% (3913/6500) | Loss: 0.670
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.706049
+AUC: 0.730580
+Test Acc: 58.508% (3803/6500)
+Epoch 6 :
+Train Acc: 61.354% (3988/6500) | Loss: 0.664
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.708675
+AUC: 0.731021
+Test Acc: 59.031% (3837/6500)
+Epoch 7 :
+Train Acc: 61.877% (4022/6500) | Loss: 0.656
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.709791
+AUC: 0.730668
+Test Acc: 59.277% (3853/6500)
+Epoch 8 :
+Train Acc: 62.831% (4084/6500) | Loss: 0.650
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.710648
+AUC: 0.730222
+Test Acc: 59.446% (3864/6500)
+Epoch 9 :
+Train Acc: 63.938% (4156/6500) | Loss: 0.645
+Test Acc: 59.231% (3850/6500)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.636388
+AUC: 0.637202
+Train Acc: 58.985% (3834/6500) | Loss: 0.645
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.713404
+AUC: 0.726824
+Test Acc: 60.000% (3900/6500)
+Best Acc: 0.600000
+ F1: 0.713404
+AUC: 0.726824
+Saved Attack Model to results/train_layer/stl10-mobilenetv2/block_shallow_0_100/meminf_top3.pth

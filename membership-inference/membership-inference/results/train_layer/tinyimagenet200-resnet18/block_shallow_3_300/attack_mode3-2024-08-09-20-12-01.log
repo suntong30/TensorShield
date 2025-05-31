@@ -1,0 +1,45 @@
+Finished Saving Train Dataset to results/train_layer/tinyimagenet200-resnet18/block_shallow_3_300/meminf_attack_mode3_train.p
+Finished Saving Test Dataset to results/train_layer/tinyimagenet200-resnet18/block_shallow_3_300/meminf_attack_mode3_test.p
+Epoch 1 :
+Train Acc: 72.933% (40113/55000) | Loss: 0.517
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.869300
+AUC: 0.920226
+Test Acc: 86.540% (47597/55000)
+Epoch 2 :
+Train Acc: 85.298% (46914/55000) | Loss: 0.342
+Test Acc: 86.122% (47367/55000)
+Epoch 3 :
+Train Acc: 87.307% (48019/55000) | Loss: 0.314
+Test Acc: 67.916% (37354/55000)
+Epoch 4 :
+Train Acc: 89.216% (49069/55000) | Loss: 0.276
+Test Acc: 68.491% (37670/55000)
+Epoch 5 :
+Train Acc: 89.480% (49214/55000) | Loss: 0.274
+Test Acc: 81.227% (44675/55000)
+Epoch 6 :
+Train Acc: 90.080% (49544/55000) | Loss: 0.261
+Test Acc: 67.589% (37174/55000)
+Epoch 7 :
+Train Acc: 90.227% (49625/55000) | Loss: 0.256
+Test Acc: 74.936% (41215/55000)
+Epoch 8 :
+Train Acc: 90.356% (49696/55000) | Loss: 0.246
+Test Acc: 82.667% (45467/55000)
+Epoch 9 :
+Train Acc: 90.673% (49870/55000) | Loss: 0.251
+Test Acc: 78.625% (43244/55000)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.915027
+AUC: 0.922398
+Train Acc: 90.811% (49946/55000) | Loss: 0.247
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.664203
+AUC: 0.922547
+Test Acc: 73.405% (40373/55000)
+Best Acc: 0.865400
+ F1: 0.869300
+AUC: 0.920226
+Saved Attack Model

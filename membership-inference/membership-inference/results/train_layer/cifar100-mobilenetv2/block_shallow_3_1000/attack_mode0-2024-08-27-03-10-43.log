@@ -1,0 +1,51 @@
+Finished Saving Train Dataset to results/train_layer/cifar100-mobilenetv2/block_shallow_3_1000/meminf_attack_mode0_train.p
+Finished Saving Test Dataset to results/train_layer/cifar100-mobilenetv2/block_shallow_3_1000/meminf_attack_mode0_test.p
+Epoch 1 :
+Train Acc: 78.257% (23477/30000) | Loss: 0.545
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.651106
+AUC: 0.660234
+Test Acc: 61.783% (18535/30000)
+Epoch 2 :
+Train Acc: 73.730% (22119/30000) | Loss: 0.563
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.604001
+AUC: 0.657999
+Test Acc: 62.253% (18676/30000)
+Epoch 3 :
+Train Acc: 75.783% (22735/30000) | Loss: 0.548
+Test Acc: 62.250% (18675/30000)
+Epoch 4 :
+Train Acc: 77.413% (23224/30000) | Loss: 0.535
+Test Acc: 60.703% (18211/30000)
+Epoch 5 :
+Train Acc: 76.710% (23013/30000) | Loss: 0.541
+Test Acc: 61.333% (18400/30000)
+Epoch 6 :
+Train Acc: 78.513% (23554/30000) | Loss: 0.523
+Test Acc: 61.613% (18484/30000)
+Epoch 7 :
+Train Acc: 78.663% (23599/30000) | Loss: 0.523
+Test Acc: 61.980% (18594/30000)
+Epoch 8 :
+Train Acc: 80.437% (24131/30000) | Loss: 0.503
+Test Acc: 61.647% (18494/30000)
+Epoch 9 :
+Train Acc: 81.407% (24422/30000) | Loss: 0.497
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.633731
+AUC: 0.651788
+Test Acc: 62.437% (18731/30000)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.826682
+AUC: 0.869562
+Train Acc: 81.760% (24528/30000) | Loss: 0.491
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.561716
+AUC: 0.654900
+Test Acc: 61.580% (18474/30000)
+Best Acc: 0.624367
+ F1: 0.633731
+AUC: 0.651788
+Saved Attack Model to results/train_layer/cifar100-mobilenetv2/block_shallow_3_1000/meminf_attack0.pth

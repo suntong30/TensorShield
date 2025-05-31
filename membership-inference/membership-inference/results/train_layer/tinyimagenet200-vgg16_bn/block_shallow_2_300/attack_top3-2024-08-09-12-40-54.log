@@ -1,0 +1,66 @@
+Finished Saving Train Dataset to results/train_layer/tinyimagenet200-vgg16_bn/block_shallow_2_300/meminf_attack_top3_train.p
+Finished Saving Test Dataset to results/train_layer/tinyimagenet200-vgg16_bn/block_shallow_2_300/meminf_attack_top3_test.p
+Epoch 1 :
+Train Acc: 59.302% (32616/55000) | Loss: 0.676
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.507175
+AUC: 0.549314
+Test Acc: 53.545% (29450/55000)
+Epoch 2 :
+Train Acc: 59.571% (32764/55000) | Loss: 0.670
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.416020
+AUC: 0.549520
+Test Acc: 53.631% (29497/55000)
+Epoch 3 :
+Train Acc: 59.991% (32995/55000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.466175
+AUC: 0.550068
+Test Acc: 53.658% (29512/55000)
+Epoch 4 :
+Train Acc: 59.902% (32946/55000) | Loss: 0.668
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.407856
+AUC: 0.550452
+Test Acc: 53.678% (29523/55000)
+Epoch 5 :
+Train Acc: 59.951% (32973/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.485449
+AUC: 0.550860
+Test Acc: 53.709% (29540/55000)
+Epoch 6 :
+Train Acc: 59.969% (32983/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.482404
+AUC: 0.551029
+Test Acc: 53.738% (29556/55000)
+Epoch 7 :
+Train Acc: 60.015% (33008/55000) | Loss: 0.668
+Test Acc: 53.731% (29552/55000)
+Epoch 8 :
+Train Acc: 60.004% (33002/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.479210
+AUC: 0.551384
+Test Acc: 53.771% (29574/55000)
+Epoch 9 :
+Train Acc: 59.998% (32999/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.480682
+AUC: 0.551523
+Test Acc: 53.811% (29596/55000)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.578874
+AUC: 0.626643
+Train Acc: 59.951% (32973/55000) | Loss: 0.667
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.480254
+AUC: 0.551588
+Test Acc: 53.795% (29587/55000)
+Best Acc: 0.538109
+ F1: 0.480682
+AUC: 0.551523
+Saved Attack Model to results/train_layer/tinyimagenet200-vgg16_bn/block_shallow_2_300/meminf_top3.pth

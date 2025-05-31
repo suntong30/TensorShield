@@ -1,0 +1,600 @@
+<======================= Epoch 1 =======================>
+shadow training
+Train Acc: 29.667% (4450/15000) | Loss: 2.766
+shadow testing
+Test Acc: 37.453% (5618/15000)
+The overfitting rate is -0.077867
+<======================= Epoch 2 =======================>
+shadow training
+Train Acc: 47.560% (7134/15000) | Loss: 1.889
+shadow testing
+Test Acc: 42.560% (6384/15000)
+The overfitting rate is 0.05
+<======================= Epoch 3 =======================>
+shadow training
+Train Acc: 55.767% (8365/15000) | Loss: 1.559
+shadow testing
+Test Acc: 44.633% (6695/15000)
+The overfitting rate is 0.111333
+<======================= Epoch 4 =======================>
+shadow training
+Train Acc: 62.213% (9332/15000) | Loss: 1.286
+shadow testing
+Test Acc: 47.180% (7077/15000)
+The overfitting rate is 0.150333
+<======================= Epoch 5 =======================>
+shadow training
+Train Acc: 65.747% (9862/15000) | Loss: 1.147
+shadow testing
+Test Acc: 48.720% (7308/15000)
+The overfitting rate is 0.170267
+<======================= Epoch 6 =======================>
+shadow training
+Train Acc: 69.413% (10412/15000) | Loss: 0.996
+shadow testing
+Test Acc: 48.587% (7288/15000)
+The overfitting rate is 0.208267
+<======================= Epoch 7 =======================>
+shadow training
+Train Acc: 73.587% (11038/15000) | Loss: 0.853
+shadow testing
+Test Acc: 49.353% (7403/15000)
+The overfitting rate is 0.242333
+<======================= Epoch 8 =======================>
+shadow training
+Train Acc: 75.953% (11393/15000) | Loss: 0.779
+shadow testing
+Test Acc: 50.687% (7603/15000)
+The overfitting rate is 0.252667
+<======================= Epoch 9 =======================>
+shadow training
+Train Acc: 79.007% (11851/15000) | Loss: 0.679
+shadow testing
+Test Acc: 49.980% (7497/15000)
+The overfitting rate is 0.290267
+<======================= Epoch 10 =======================>
+shadow training
+Train Acc: 80.327% (12049/15000) | Loss: 0.623
+shadow testing
+Test Acc: 51.080% (7662/15000)
+The overfitting rate is 0.292467
+<======================= Epoch 11 =======================>
+shadow training
+Train Acc: 81.833% (12275/15000) | Loss: 0.562
+shadow testing
+Test Acc: 50.633% (7595/15000)
+The overfitting rate is 0.312
+<======================= Epoch 12 =======================>
+shadow training
+Train Acc: 82.700% (12405/15000) | Loss: 0.542
+shadow testing
+Test Acc: 51.467% (7720/15000)
+The overfitting rate is 0.312333
+<======================= Epoch 13 =======================>
+shadow training
+Train Acc: 84.653% (12698/15000) | Loss: 0.484
+shadow testing
+Test Acc: 50.013% (7502/15000)
+The overfitting rate is 0.3464
+<======================= Epoch 14 =======================>
+shadow training
+Train Acc: 86.520% (12978/15000) | Loss: 0.430
+shadow testing
+Test Acc: 51.313% (7697/15000)
+The overfitting rate is 0.352067
+<======================= Epoch 15 =======================>
+shadow training
+Train Acc: 87.627% (13144/15000) | Loss: 0.383
+shadow testing
+Test Acc: 51.740% (7761/15000)
+The overfitting rate is 0.358867
+<======================= Epoch 16 =======================>
+shadow training
+Train Acc: 88.833% (13325/15000) | Loss: 0.354
+shadow testing
+Test Acc: 51.960% (7794/15000)
+The overfitting rate is 0.368733
+<======================= Epoch 17 =======================>
+shadow training
+Train Acc: 88.240% (13236/15000) | Loss: 0.375
+shadow testing
+Test Acc: 52.573% (7886/15000)
+The overfitting rate is 0.356667
+<======================= Epoch 18 =======================>
+shadow training
+Train Acc: 89.127% (13369/15000) | Loss: 0.348
+shadow testing
+Test Acc: 52.860% (7929/15000)
+The overfitting rate is 0.362667
+<======================= Epoch 19 =======================>
+shadow training
+Train Acc: 90.793% (13619/15000) | Loss: 0.282
+shadow testing
+Test Acc: 53.920% (8088/15000)
+The overfitting rate is 0.368733
+<======================= Epoch 20 =======================>
+shadow training
+Train Acc: 93.947% (14092/15000) | Loss: 0.196
+shadow testing
+Test Acc: 53.853% (8078/15000)
+The overfitting rate is 0.400933
+<======================= Epoch 21 =======================>
+shadow training
+Train Acc: 93.420% (14013/15000) | Loss: 0.209
+shadow testing
+Test Acc: 52.467% (7870/15000)
+The overfitting rate is 0.409533
+<======================= Epoch 22 =======================>
+shadow training
+Train Acc: 93.153% (13973/15000) | Loss: 0.222
+shadow testing
+Test Acc: 53.667% (8050/15000)
+The overfitting rate is 0.394867
+<======================= Epoch 23 =======================>
+shadow training
+Train Acc: 93.287% (13993/15000) | Loss: 0.209
+shadow testing
+Test Acc: 52.760% (7914/15000)
+The overfitting rate is 0.405267
+<======================= Epoch 24 =======================>
+shadow training
+Train Acc: 94.847% (14227/15000) | Loss: 0.174
+shadow testing
+Test Acc: 54.413% (8162/15000)
+The overfitting rate is 0.404333
+<======================= Epoch 25 =======================>
+shadow training
+Train Acc: 94.967% (14245/15000) | Loss: 0.171
+shadow testing
+Test Acc: 54.207% (8131/15000)
+The overfitting rate is 0.4076
+<======================= Epoch 26 =======================>
+shadow training
+Train Acc: 95.220% (14283/15000) | Loss: 0.156
+shadow testing
+Test Acc: 52.920% (7938/15000)
+The overfitting rate is 0.423
+<======================= Epoch 27 =======================>
+shadow training
+Train Acc: 94.947% (14242/15000) | Loss: 0.166
+shadow testing
+Test Acc: 53.473% (8021/15000)
+The overfitting rate is 0.414733
+<======================= Epoch 28 =======================>
+shadow training
+Train Acc: 95.100% (14265/15000) | Loss: 0.158
+shadow testing
+Test Acc: 54.160% (8124/15000)
+The overfitting rate is 0.4094
+<======================= Epoch 29 =======================>
+shadow training
+Train Acc: 95.367% (14305/15000) | Loss: 0.150
+shadow testing
+Test Acc: 54.693% (8204/15000)
+The overfitting rate is 0.406733
+<======================= Epoch 30 =======================>
+shadow training
+Train Acc: 93.767% (14065/15000) | Loss: 0.202
+shadow testing
+Test Acc: 51.507% (7726/15000)
+The overfitting rate is 0.4226
+<======================= Epoch 31 =======================>
+shadow training
+Train Acc: 94.067% (14110/15000) | Loss: 0.193
+shadow testing
+Test Acc: 52.673% (7901/15000)
+The overfitting rate is 0.413933
+<======================= Epoch 32 =======================>
+shadow training
+Train Acc: 94.273% (14141/15000) | Loss: 0.183
+shadow testing
+Test Acc: 52.600% (7890/15000)
+The overfitting rate is 0.416733
+<======================= Epoch 33 =======================>
+shadow training
+Train Acc: 95.407% (14311/15000) | Loss: 0.145
+shadow testing
+Test Acc: 54.527% (8179/15000)
+The overfitting rate is 0.4088
+<======================= Epoch 34 =======================>
+shadow training
+Train Acc: 97.187% (14578/15000) | Loss: 0.098
+shadow testing
+Test Acc: 54.247% (8137/15000)
+The overfitting rate is 0.4294
+<======================= Epoch 35 =======================>
+shadow training
+Train Acc: 97.867% (14680/15000) | Loss: 0.081
+shadow testing
+Test Acc: 56.180% (8427/15000)
+The overfitting rate is 0.416867
+<======================= Epoch 36 =======================>
+shadow training
+Train Acc: 96.993% (14549/15000) | Loss: 0.103
+shadow testing
+Test Acc: 54.047% (8107/15000)
+The overfitting rate is 0.429467
+<======================= Epoch 37 =======================>
+shadow training
+Train Acc: 97.780% (14667/15000) | Loss: 0.080
+shadow testing
+Test Acc: 55.167% (8275/15000)
+The overfitting rate is 0.426133
+<======================= Epoch 38 =======================>
+shadow training
+Train Acc: 98.260% (14739/15000) | Loss: 0.068
+shadow testing
+Test Acc: 55.193% (8279/15000)
+The overfitting rate is 0.430667
+<======================= Epoch 39 =======================>
+shadow training
+Train Acc: 97.613% (14642/15000) | Loss: 0.086
+shadow testing
+Test Acc: 53.547% (8032/15000)
+The overfitting rate is 0.440667
+<======================= Epoch 40 =======================>
+shadow training
+Train Acc: 96.900% (14535/15000) | Loss: 0.103
+shadow testing
+Test Acc: 53.513% (8027/15000)
+The overfitting rate is 0.433867
+<======================= Epoch 41 =======================>
+shadow training
+Train Acc: 96.360% (14454/15000) | Loss: 0.126
+shadow testing
+Test Acc: 54.353% (8153/15000)
+The overfitting rate is 0.420067
+<======================= Epoch 42 =======================>
+shadow training
+Train Acc: 95.667% (14350/15000) | Loss: 0.141
+shadow testing
+Test Acc: 52.627% (7894/15000)
+The overfitting rate is 0.4304
+<======================= Epoch 43 =======================>
+shadow training
+Train Acc: 96.013% (14402/15000) | Loss: 0.132
+shadow testing
+Test Acc: 51.460% (7719/15000)
+The overfitting rate is 0.445533
+<======================= Epoch 44 =======================>
+shadow training
+Train Acc: 95.227% (14284/15000) | Loss: 0.160
+shadow testing
+Test Acc: 53.753% (8063/15000)
+The overfitting rate is 0.414733
+<======================= Epoch 45 =======================>
+shadow training
+Train Acc: 94.960% (14244/15000) | Loss: 0.171
+shadow testing
+Test Acc: 51.487% (7723/15000)
+The overfitting rate is 0.434733
+<======================= Epoch 46 =======================>
+shadow training
+Train Acc: 94.687% (14203/15000) | Loss: 0.177
+shadow testing
+Test Acc: 52.813% (7922/15000)
+The overfitting rate is 0.418733
+<======================= Epoch 47 =======================>
+shadow training
+Train Acc: 94.107% (14116/15000) | Loss: 0.189
+shadow testing
+Test Acc: 50.387% (7558/15000)
+The overfitting rate is 0.4372
+<======================= Epoch 48 =======================>
+shadow training
+Train Acc: 93.700% (14055/15000) | Loss: 0.206
+shadow testing
+Test Acc: 50.587% (7588/15000)
+The overfitting rate is 0.431133
+<======================= Epoch 49 =======================>
+shadow training
+Train Acc: 93.733% (14060/15000) | Loss: 0.208
+shadow testing
+Test Acc: 50.553% (7583/15000)
+The overfitting rate is 0.4318
+<======================= Epoch 50 =======================>
+shadow training
+Train Acc: 94.193% (14129/15000) | Loss: 0.195
+shadow testing
+Test Acc: 49.867% (7480/15000)
+The overfitting rate is 0.443267
+<======================= Epoch 51 =======================>
+shadow training
+Train Acc: 97.760% (14664/15000) | Loss: 0.083
+shadow testing
+Test Acc: 56.640% (8496/15000)
+The overfitting rate is 0.4112
+<======================= Epoch 52 =======================>
+shadow training
+Train Acc: 99.700% (14955/15000) | Loss: 0.025
+shadow testing
+Test Acc: 57.540% (8631/15000)
+The overfitting rate is 0.4216
+<======================= Epoch 53 =======================>
+shadow training
+Train Acc: 99.807% (14971/15000) | Loss: 0.019
+shadow testing
+Test Acc: 57.780% (8667/15000)
+The overfitting rate is 0.420267
+<======================= Epoch 54 =======================>
+shadow training
+Train Acc: 99.867% (14980/15000) | Loss: 0.015
+shadow testing
+Test Acc: 58.040% (8706/15000)
+The overfitting rate is 0.418267
+<======================= Epoch 55 =======================>
+shadow training
+Train Acc: 99.913% (14987/15000) | Loss: 0.013
+shadow testing
+Test Acc: 58.333% (8750/15000)
+The overfitting rate is 0.4158
+<======================= Epoch 56 =======================>
+shadow training
+Train Acc: 99.953% (14993/15000) | Loss: 0.011
+shadow testing
+Test Acc: 58.520% (8778/15000)
+The overfitting rate is 0.414333
+<======================= Epoch 57 =======================>
+shadow training
+Train Acc: 99.940% (14991/15000) | Loss: 0.010
+shadow testing
+Test Acc: 58.440% (8766/15000)
+The overfitting rate is 0.415
+<======================= Epoch 58 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.009
+shadow testing
+Test Acc: 58.600% (8790/15000)
+The overfitting rate is 0.413667
+<======================= Epoch 59 =======================>
+shadow training
+Train Acc: 99.960% (14994/15000) | Loss: 0.008
+shadow testing
+Test Acc: 58.960% (8844/15000)
+The overfitting rate is 0.41
+<======================= Epoch 60 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.008
+shadow testing
+Test Acc: 58.893% (8834/15000)
+The overfitting rate is 0.410733
+<======================= Epoch 61 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.007
+shadow testing
+Test Acc: 58.893% (8834/15000)
+The overfitting rate is 0.410733
+<======================= Epoch 62 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.007
+shadow testing
+Test Acc: 58.920% (8838/15000)
+The overfitting rate is 0.410533
+<======================= Epoch 63 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.007
+shadow testing
+Test Acc: 58.713% (8807/15000)
+The overfitting rate is 0.4126
+<======================= Epoch 64 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.007
+shadow testing
+Test Acc: 58.967% (8845/15000)
+The overfitting rate is 0.410133
+<======================= Epoch 65 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.006
+shadow testing
+Test Acc: 58.953% (8843/15000)
+The overfitting rate is 0.410133
+<======================= Epoch 66 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.006
+shadow testing
+Test Acc: 58.893% (8834/15000)
+The overfitting rate is 0.4108
+<======================= Epoch 67 =======================>
+shadow training
+Train Acc: 99.993% (14999/15000) | Loss: 0.006
+shadow testing
+Test Acc: 58.893% (8834/15000)
+The overfitting rate is 0.411
+<======================= Epoch 68 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.240% (8886/15000)
+The overfitting rate is 0.407333
+<======================= Epoch 69 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.133% (8870/15000)
+The overfitting rate is 0.408467
+<======================= Epoch 70 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.393% (8909/15000)
+The overfitting rate is 0.4058
+<======================= Epoch 71 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.107% (8866/15000)
+The overfitting rate is 0.4086
+<======================= Epoch 72 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.207% (8881/15000)
+The overfitting rate is 0.407733
+<======================= Epoch 73 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.280% (8892/15000)
+The overfitting rate is 0.406933
+<======================= Epoch 74 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.473% (8921/15000)
+The overfitting rate is 0.405067
+<======================= Epoch 75 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.233% (8885/15000)
+The overfitting rate is 0.4074
+<======================= Epoch 76 =======================>
+shadow training
+Train Acc: 99.973% (14996/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.327% (8899/15000)
+The overfitting rate is 0.406467
+<======================= Epoch 77 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.187% (8878/15000)
+The overfitting rate is 0.407933
+<======================= Epoch 78 =======================>
+shadow training
+Train Acc: 100.000% (15000/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.127% (8869/15000)
+The overfitting rate is 0.408733
+<======================= Epoch 79 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.433% (8915/15000)
+The overfitting rate is 0.405533
+<======================= Epoch 80 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.173% (8876/15000)
+The overfitting rate is 0.408067
+<======================= Epoch 81 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.313% (8897/15000)
+The overfitting rate is 0.406533
+<======================= Epoch 82 =======================>
+shadow training
+Train Acc: 99.960% (14994/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.327% (8899/15000)
+The overfitting rate is 0.406333
+<======================= Epoch 83 =======================>
+shadow training
+Train Acc: 99.993% (14999/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.267% (8890/15000)
+The overfitting rate is 0.407267
+<======================= Epoch 84 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.273% (8891/15000)
+The overfitting rate is 0.407133
+<======================= Epoch 85 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.460% (8919/15000)
+The overfitting rate is 0.405267
+<======================= Epoch 86 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.367% (8905/15000)
+The overfitting rate is 0.406133
+<======================= Epoch 87 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.140% (8871/15000)
+The overfitting rate is 0.408467
+<======================= Epoch 88 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.287% (8893/15000)
+The overfitting rate is 0.407
+<======================= Epoch 89 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.347% (8902/15000)
+The overfitting rate is 0.4062
+<======================= Epoch 90 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.453% (8918/15000)
+The overfitting rate is 0.405267
+<======================= Epoch 91 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.347% (8902/15000)
+The overfitting rate is 0.406333
+<======================= Epoch 92 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.313% (8897/15000)
+The overfitting rate is 0.406733
+<======================= Epoch 93 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.005
+shadow testing
+Test Acc: 59.313% (8897/15000)
+The overfitting rate is 0.406667
+<======================= Epoch 94 =======================>
+shadow training
+Train Acc: 99.993% (14999/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.187% (8878/15000)
+The overfitting rate is 0.408067
+<======================= Epoch 95 =======================>
+shadow training
+Train Acc: 99.980% (14997/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.453% (8918/15000)
+The overfitting rate is 0.405267
+<======================= Epoch 96 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.247% (8887/15000)
+The overfitting rate is 0.4074
+<======================= Epoch 97 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.360% (8904/15000)
+The overfitting rate is 0.406267
+<======================= Epoch 98 =======================>
+shadow training
+Train Acc: 100.000% (15000/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.320% (8898/15000)
+The overfitting rate is 0.4068
+<======================= Epoch 99 =======================>
+shadow training
+Train Acc: 99.987% (14998/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.273% (8891/15000)
+The overfitting rate is 0.407133
+<======================= Epoch 100 =======================>
+shadow training
+Train Acc: 99.967% (14995/15000) | Loss: 0.004
+shadow testing
+Test Acc: 59.260% (8889/15000)
+The overfitting rate is 0.407067

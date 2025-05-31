@@ -1,0 +1,66 @@
+Finished Saving Train Dataset to results/train_layer/stl10-resnet50/block_shallow_8_100/meminf_attack_top3_train.p
+Finished Saving Test Dataset to results/train_layer/stl10-resnet50/block_shallow_8_100/meminf_attack_top3_test.p
+Epoch 1 :
+Train Acc: 53.308% (3465/6500) | Loss: 0.685
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.680536
+AUC: 0.669871
+Test Acc: 53.462% (3475/6500)
+Epoch 2 :
+Train Acc: 56.154% (3650/6500) | Loss: 0.682
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.689424
+AUC: 0.681381
+Test Acc: 55.769% (3625/6500)
+Epoch 3 :
+Train Acc: 59.354% (3858/6500) | Loss: 0.679
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.692383
+AUC: 0.677079
+Test Acc: 56.446% (3669/6500)
+Epoch 4 :
+Train Acc: 59.338% (3857/6500) | Loss: 0.675
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.695099
+AUC: 0.681536
+Test Acc: 57.215% (3719/6500)
+Epoch 5 :
+Train Acc: 60.692% (3945/6500) | Loss: 0.670
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.697464
+AUC: 0.683645
+Test Acc: 57.785% (3756/6500)
+Epoch 6 :
+Train Acc: 61.585% (4003/6500) | Loss: 0.662
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.697618
+AUC: 0.680874
+Test Acc: 57.815% (3758/6500)
+Epoch 7 :
+Train Acc: 62.862% (4086/6500) | Loss: 0.655
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.699380
+AUC: 0.680921
+Test Acc: 58.246% (3786/6500)
+Epoch 8 :
+Train Acc: 60.262% (3917/6500) | Loss: 0.650
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.707894
+AUC: 0.668440
+Test Acc: 60.831% (3954/6500)
+Epoch 9 :
+Train Acc: 60.954% (3962/6500) | Loss: 0.645
+Test Acc: 50.415% (3277/6500)
+Epoch 10 :
+Saved Attack Train Ground Truth and Predict Sets
+Train F1: 0.642707
+AUC: 0.628380
+Train Acc: 58.246% (3786/6500) | Loss: 0.656
+Saved Attack Test Ground Truth and Predict Sets
+Test F1: 0.690043
+AUC: 0.671860
+Test Acc: 55.938% (3636/6500)
+Best Acc: 0.608308
+ F1: 0.707894
+AUC: 0.668440
+Saved Attack Model to results/train_layer/stl10-resnet50/block_shallow_8_100/meminf_top3.pth

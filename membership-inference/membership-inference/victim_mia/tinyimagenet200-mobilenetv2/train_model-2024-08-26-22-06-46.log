@@ -1,0 +1,14 @@
+<======================= Epoch 1 =======================>
+target training
+Train Acc: 4.822% (1326/27500) | Loss: 4.796
+target testing
+Test Acc: 7.960% (2189/27500)
+The overfitting rate is -0.031382
+<======================= Epoch 2 =======================>
+target training
+Train Acc: 8.149% (2241/27500) | Loss: 4.391
+target testing
+Test Acc: 7.625% (2097/27500)
+The overfitting rate is 0.005236
+<======================= Epoch 3 =======================>
+target training

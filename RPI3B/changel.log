@@ -1,0 +1,12 @@
+    printf("[REE] type: %d, activation: %d, batch: %d, h: %d\n",
+        params0->type, params0->activation, params0->batch, params0->h);
+    printf("[REE] w: %d, c: %d, n: %d, groups: %d\n",
+        params0->w, params0->c, params0->n, params0->groups);
+    printf("[REE] size: %d, stride: %d, padding: %d, batch_normalize: %d\n",
+        params0->size, params0->stride, params0->padding, params0->batch_normalize);
+    printf("[REE] xnor: %d, binary: %d, adam: %d, flipped: %d\n",
+        params0->xnor, params0->binary, params0->adam, params0->flipped);
+    printf("[REE] cost_type: %d, biases_length: %d, weights_length: %d, inputs: %d\n",
+        params0->cost_type, params0->biases_length, params0->weights_length, params0->inputs);
+    printf("[REE] outputs: %d\n",
+        params0->outputs);   

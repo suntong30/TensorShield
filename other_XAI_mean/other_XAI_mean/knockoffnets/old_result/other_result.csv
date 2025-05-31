@@ -1,0 +1,17 @@
+dataset,arch,layer_percent,channel_percent,epoch,final_acc,best_acc
+tinyimagenet200,resnet18,1,-1,100,25.87,26.1
+tinyimagenet200,resnet18,1,-2,100,40.56,40.79
+tinyimagenet200,alexnet,1,-1,100,15.06,15.53
+tinyimagenet200,alexnet,1,-2,100,3.75,4.23
+tinyimagenet200,vgg16_bn,1,-1,100,27.25,27.95
+tinyimagenet200,vgg16_bn,1,-2,100,25.68,26.6
+cifar10,resnet18,1,-1,100,86.02,86.25
+cifar10,resnet18,1,-2,100,77.93,78.01
+cifar10,alexnet,1,-1,100,74.51,75.56
+cifar10,alexnet,1,-2,100,46.65,47.22
+cifar10,vgg16_bn,1,-1,100,88.77,89.29
+cifar10,vgg16_bn,1,-2,100,79.86,80.51
+cifar100,alexnet,1,-1,100,36.86,37.43
+cifar100,alexnet,1,-2,100,12.31,12.6
+cifar100,vgg16_bn,1,-1,100,68.98,69.5
+cifar100,vgg16_bn,1,-2,100,53.33,53.46
