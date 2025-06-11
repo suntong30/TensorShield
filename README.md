@@ -32,14 +32,14 @@ $ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/suntong30/TensorShield.git
-cd ./knockoffnets_demo
+cd ./model-stealing_demo
 export PYTHONPATH=../:$PYTHONPATH
 ```
 
 ### 2. Train the Victim Model
 
 ```bash
-python3 knockoff/victim/train.py CIFAR100 resnet18 -d 0 -o models/victim/cifar100-resnet18 -e 20 --pretrained imagenet
+python3 knockoff/victim/train.py CIFAR100 resnet18 -d 0 -o models/victim/cifar100-resnet18 -e 20 --pretrained imagenet --is_victim 1
 ```
 
 The victim model will be saved in the `./models/victim/cifar100-resnet18` directory.
@@ -88,7 +88,7 @@ if True:  # All parameters are copied (white-box)
 Launch the attack:
 
 ```bash
-python3 knockoff/adversary/train.py models/adversary/cifar100-resnet18-random resnet18 CIFAR100 --budgets 1000 -d 0 --pretrained imagenet --log-interval 100 --epochs 100 --lr 0.01
+python3 knockoff/adversary/train.py models/adversary/cifar100-resnet18-random resnet18 CIFAR100 --budgets 1000 -d 0 --pretrained imagenet --log-interval 100 --epochs 100 --lr 0.01 --is_victim 0
 ```
 
 The shadow model will be saved in `./models/adversary/cifar100-resnet18-random/`.
@@ -106,7 +106,9 @@ if False:  # No parameters are copied (black-box)
     ...
 ```
 
-Launch the attack: using the same command as above. The shadow model will again be saved in `./models/adversary/cifar100-resnet18-random/`.
+Launch the attack: using the same command as above. 
+
+The shadow model will again be saved in `./models/adversary/cifar100-resnet18-random/`.
 Attack Accuracy (TensorShield):
 ![alt text](image.png)
 
@@ -136,7 +138,7 @@ if 'layer1.1.conv1.weight' not in key and 'layer2.0.conv1.weight' not in key and
 Launch the attack:
 
 ```bash
-python3 knockoff/adversary/train.py models/adversary/cifar100-resnet18-random resnet18 CIFAR100 --budgets 1000 -d 0 --pretrained imagenet --log-interval 100 --epochs 100 --lr 0.01
+python3 knockoff/adversary/train.py models/adversary/cifar100-resnet18-random resnet18 CIFAR100 --budgets 1000 -d 0 --pretrained imagenet --log-interval 100 --epochs 100 --lr 0.01 --is_victim 0
 ```
 
 The shadow model will be saved in `./models/adversary/cifar100-resnet18-random/`.

@@ -56,7 +56,7 @@ class Blackbox(object):
 
         # Instantiate the model
         # model = model_utils.get_net(model_arch, n_output_classes=num_classes)
-        model = zoo.get_net(model_arch, modelfamily, pretrained=None, num_classes=num_classes)
+        model = zoo.get_net(model_arch, modelfamily, pretrained=None, num_classes=num_classes, is_victim=1)
         model = model.to(device)
 
         # Load weights

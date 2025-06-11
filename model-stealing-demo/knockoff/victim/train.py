@@ -58,6 +58,7 @@ def main():
                         help='Step sizes for LR')
     parser.add_argument('--lr-gamma', type=float, default=0.1, metavar='N',
                         help='LR Decay Rate')
+    parser.add_argument('--is_victim', type=int, default=1)
     parser.add_argument('-w', '--num_workers', metavar='N', type=int, help='# Worker threads to load data', default=10)
     parser.add_argument('--train_subset', type=int, help='Use a subset of train set', default=None)
     parser.add_argument('--pretrained', type=str, help='Use pretrained network', default=None)
@@ -86,6 +87,7 @@ def main():
     testset = dataset(train=False, transform=test_transform)
     num_classes = len(trainset.classes)
     params['num_classes'] = num_classes
+    is_victim = params['is_victim']
 
     if params['train_subset'] is not None:
         idxs = np.arange(len(trainset))
@@ -97,7 +99,7 @@ def main():
     model_name = params['model_arch']
     pretrained = params['pretrained']
     # model = model_utils.get_net(model_name, n_output_classes=num_classes, pretrained=pretrained)
-    model = zoo.get_net(model_name, modelfamily, pretrained, num_classes=num_classes)
+    model = zoo.get_net(model_name, modelfamily, pretrained, num_classes=num_classes, is_victim=is_victim)
     model = model.to(device)
 
     # ----------- Train

@@ -8,7 +8,7 @@ import knockoff.models.imagenet
 
 
 def get_net(modelname, modeltype, pretrained=None, **kwargs):
-    pretrained = 'imagenet' # 添加这一行，确保与victim模型架构一样
+    pretrained = 'imagenet'
     assert modeltype in ('mnist', 'cifar', 'imagenet')
     # print('[DEBUG] pretrained={}\tnum_classes={}'.format(pretrained, kwargs['num_classes']))
     if pretrained and pretrained is not None:
@@ -29,8 +29,12 @@ def get_net(modelname, modeltype, pretrained=None, **kwargs):
 
 
 def get_pretrainednet(modelname, modeltype, pretrained='imagenet', num_classes=1000, **kwargs):
-    if pretrained == 'imagenet':
+    is_victim = kwargs['is_victim']
+    print(f'is_victim: {is_victim}')
+    if pretrained == 'imagenet' and is_victim == 0:
         return get_imagenet_pretrainednet(modelname, num_classes, **kwargs)
+    elif pretrained == 'imagenet' and is_victim == 1:
+        return get_imagenet_pretrainednet_vitim(modelname, num_classes, **kwargs)
     elif osp.exists(pretrained):
         try:
             # This should have ideally worked:
@@ -48,12 +52,25 @@ def get_pretrainednet(modelname, modeltype, pretrained='imagenet', num_classes=1
         return model
     else:
         raise ValueError('Currently only supported for imagenet or existing pretrained models')
+
+
+def get_imagenet_pretrainednet_vitim(modelname, num_classes=1000, **kwargs):
+    valid_models = knockoff.models.imagenet.__dict__.keys()
+    assert modelname in valid_models, 'Model not recognized, Supported models = {}'.format(valid_models)
+    model = knockoff.models.imagenet.__dict__[modelname](pretrained='imagenet')
+    if num_classes != 1000:
+        # Replace last linear layer
+        in_features = model.last_linear.in_features
+        out_features = num_classes
+        model.last_linear = nn.Linear(in_features, out_features, bias=True)
+    return model
+
 def get_imagenet_pretrainednet(modelname, num_classes=1000, **kwargs):
     valid_models = knockoff.models.imagenet.__dict__.keys()
     assert modelname in valid_models, 'Model not recognized. Supported models = {}'.format(valid_models)
 
     if modelname == 'resnet18':
-        checkpoint_path = ''  # Add the path to your victim model, e.g., /home/knockoffnets/models/victim/cifar100-resnet18/checkpoint.pth.tar
+        checkpoint_path = './models/victim/cifar100-resnet18/checkpoint.pth.tar'  # Add the path to your victim model, e.g., /home/knockoffnets/models/victim/cifar100-resnet18/checkpoint.pth.tar
         trained_state_dict = torch.load(checkpoint_path)['state_dict']
 
         # Initialize a new ImageNet-pretrained ResNet-18 model
@@ -78,11 +95,11 @@ def get_imagenet_pretrainednet(modelname, num_classes=1000, **kwargs):
     
             # This will skip copying weights of protected tensors specific for resnet18-cifar100
             
-            # if 'layer1.1.conv1.weight' not in key and 'layer2.0.conv1.weight' not in key and 'layer1.0.conv1.weight' not in key \
-            #     and 'layer1.1.conv2.weight' not in key and 'layer1.0.conv2.weight' not in key and 'layer2.0.conv2.weight' not in key\
-            #          and 'layer2.1.conv1.weight' not in key and 'layer2.1.conv2.weight' not in key and 'layer3.0.conv1.weight' not in key and 'layer3.0.conv2.weight' not in key      and 'last_linear.weight' not in key and 'last_linear.bias' not in key:             
+            if 'layer1.1.conv1.weight' not in key and 'layer2.0.conv1.weight' not in key and 'layer1.0.conv1.weight' not in key \
+                and 'layer1.1.conv2.weight' not in key and 'layer1.0.conv2.weight' not in key and 'layer2.0.conv2.weight' not in key\
+                     and 'layer2.1.conv1.weight' not in key and 'layer2.1.conv2.weight' not in key and 'layer3.0.conv1.weight' not in key and 'layer3.0.conv2.weight' not in key      and 'last_linear.weight' not in key and 'last_linear.bias' not in key:             
 
-            if True:  # Set to True for white-box attack (no protection), False for black-box attack (protect all parameters)
+            # if False:  # Set to True for white-box attack (no protection), False for black-box attack (protect all parameters)
                 # Navigate to the corresponding module in new_model
                 attr = new_model
                 for part in parts[:-1]:
@@ -99,11 +116,11 @@ def get_imagenet_pretrainednet(modelname, num_classes=1000, **kwargs):
 
         model = new_model
 
-        if num_classes != 1000:
-            # Replace the last linear layer again if needed
-            in_features = model.last_linear.in_features
-            out_features = num_classes
-            model.last_linear = nn.Linear(in_features, out_features, bias=True)
+        # if num_classes != 1000:
+        #     # Replace the last linear layer again if needed
+        #     in_features = model.last_linear.in_features
+        #     out_features = num_classes
+        #     model.last_linear = nn.Linear(in_features, out_features, bias=True)
 
     else:
         model = knockoff.models.imagenet.__dict__[modelname](pretrained='imagenet')
