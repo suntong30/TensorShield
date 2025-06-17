@@ -157,20 +157,45 @@ The evaluated datasets and architectures are specified in `./model-stealing/j_pr
 ```python
 def run():
     # Datasets to evaluate
-    datasets = ['cifar100']
+    datasets = ['cifar10']
     # Model architectures to evaluate
     archs = ['resnet18']
 ```
+
+We have uploaded pre-trained victim models and adversary models in [Google Drive](https://drive.google.com/drive/folders/1XCBkvAcNwleQqHS0UP6Y37CI3VsjeQQH?usp=drive_link). 
+The `./model-stealing/models` in our repository is empty. You can download them and place them in the `./model-stealing/models` folder.
 
 To launch the attack, run:
 
 ```bash
 python3 j_process.py
 ```
+In our default setting, the evaluated protection approach is `shielding shallow layers`:
 
-Similarly, the Membership Inference Attack (MIA) script can be found in the `./membership-inference/scripts` folder.
+```Python
+...
+if channel_percent and  channel_percent < 0 :
+    layer_name_list = []
+    for name, param in new_model.named_parameters():
+        if name.endswith('weight'):
+            layer_name_list.append(name)
+    print(f"{modelname}  protect len = {len(layer_name_list)}")
+    
+    protect_layers = layer_name_list[:int(protect_percent)] # protect shallow layers
+...
+```
+
+and the `shielding deep layers` is 
+```Python
+...
+    protect_layers = layer_name_list[-int(protect_percent):] # protect deep layers
+...
+```
 
 Other XAI baselines are provided in the `other_XAI`, `other_XAI_grad`, and related folders.
+
+
+Similarly, the Membership Inference Attack (MIA) script can be found in the `./membership-inference/scripts` folder.
 
 
 ## On-device inference
