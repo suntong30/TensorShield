@@ -6,7 +6,7 @@
 
 TensorShield is an efficient on-device inference framework that selectively shields partial tensors of a model while achieving near-complete defense against both model stealing (MS) and membership inference attacks (MIA).
 
-* `./model-stealing_demo`: Contains the demonstration code for the model stealing attack on ResNet18, used in Figure 11 and Figure 12.
+* `./model-stealing-demo`: Contains the demonstration code for the model stealing attack on ResNet18, used in Figure 11 and Figure 12.
 * `./model-stealing`, `./membership-inference`, `./otherXAI`: Contain the MS and MIA attack implementations and scripts for TensorShield and various baselines, used in Figure 9, Figure 10, Figure 11, and Figure 12.
 * `./Hikey960`: Includes the TensorShield deployment code for the Hikey960 mobile device, supporting results in Figure 9, Figure 14, Table 3, Figure 15, and Table 4.
 * `./RPI3B`: Includes the TensorShield deployment code for the Raspberry Pi 3B device, supporting results in Figure 9, Figure 14, Figure 15, and Table 4.
@@ -32,7 +32,7 @@ $ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/suntong30/TensorShield.git
-cd ./model-stealing_demo
+cd ./model-stealing-demo
 export PYTHONPATH=../:$PYTHONPATH
 ```
 
